@@ -217,25 +217,18 @@ ideologies = {
 		faction_impact_on_world_tension = 0.6
 		
 		modifiers = {
-			generate_wargoal_tension = 0.25
-			join_faction_tension = 0.15
-			lend_lease_tension = 0.45
-			send_volunteers_tension = 0.40
-			guarantee_tension = 0.80
-			take_states_cost_factor = 0.30
-			annex_cost_factor = 0.50
-			justify_war_goal_when_in_major_war_time = 0.20
-			puppet_cost_factor = 0.15
-			civilian_intel_to_others = 35.0
-			army_intel_to_others = 5.0
-			navy_intel_to_others = 7.5
-			airforce_intel_to_others = 7.5
+			guarantee_tension = 0.40
+			justify_war_goal_when_in_major_war_time = 0.50
+			civilian_intel_to_others = 30.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
 		}
 		
 		faction_modifiers = {
-			faction_trade_opinion_factor = 0.30
+			faction_trade_opinion_factor = 0.10
 		}
-		ai_anarchist = yes
+		ai_authoritarian = yes
 	}
 
 	
