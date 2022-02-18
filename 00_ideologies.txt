@@ -79,7 +79,7 @@ ideologies = {
 	}
 
 	
-	centrism = {
+	centrist = {
 	
 		types = {
 			
@@ -201,7 +201,7 @@ ideologies = {
 		color = { 153 101 21 }
 		
 		rules = {
-			can_create_collaboration_government = yes
+			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = yes
 			can_force_government = yes
 			can_send_volunteers = yes
@@ -229,7 +229,198 @@ ideologies = {
 			faction_trade_opinion_factor = 0.10
 		}
 		ai_authoritarian = yes
+	}	
+	
+	
+	conservative = {
+	
+		types = {
+			
+			liberal_conservatism = {
+			}
+		
+			libertarian_conservatism = {
+			}
+		
+			fiscal_conservatism = {
+			}
+			
+			traditional_conservatism = {
+			}
+			
+			religious_conservatism = {
+			}
+			
+			paternalistic_conservatism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CONSERVATIVE_1"
+			"FACTION_NAME_CONSERVATIVE_2"
+			"FACTION_NAME_CONSERVATIVE_3"
+			"FACTION_NAME_CONSERVATIVE_4"
+			"FACTION_NAME_CONSERVATIVE_5"
+			"FACTION_NAME_CONSERVATIVE_6"
+		}
+		
+		color = { 65 105 225 }
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.6
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			guarantee_tension = 0.10
+			justify_war_goal_when_in_major_war_time = 0.10
+			civilian_intel_to_others = 25.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 12.5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.70
+		}
+		ai_democratic = yes
+	}
+	
+	
+	liberal = {
+	
+		types = {
+			
+			classical_liberalism = {
+			}
+		
+			egalitarian_liberalism = {
+			}
+		
+			economic_liberalism = {
+			}
+			
+			social_liberalism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERAL_1"
+			"FACTION_NAME_LIBERAL_2"
+			"FACTION_NAME_LIBERAL_3"
+			"FACTION_NAME_LIBERAL_4"
+			"FACTION_NAME_LIBERAL_5"
+			"FACTION_NAME_LIBERAL_6"
+		}
+		
+		color = { 255 215 0 }
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.6
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			guarantee_tension = 0.10
+			justify_war_goal_when_in_major_war_time = 0.10
+			civilian_intel_to_others = 22.5
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 12.5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.60
+		}
+		ai_democratic = yes
+	}
+	
+	
+	monarchy = {
+	
+		types = {
+			
+			absolute_monarchy = {
+			}
+		
+			executive_monarchy = {
+			}
+		
+			semi-constitutional_monarchy = {
+			}
+			
+			constitutional_monarchy = {
+			}
+			
+			regency = {
+			}
+			
+			regency_council = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MONARCHIST_1"
+			"FACTION_NAME_MONARCHIST_2"
+			"FACTION_NAME_MONARCHIST_3"
+			"FACTION_NAME_MONARCHIST_4"
+			"FACTION_NAME_MONARCHIST_5"
+			"FACTION_NAME_MONARCHIST_6"
+		}
+		
+		color = { 159 43 104 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.3
+		faction_impact_on_world_tension = 0.5
+		
+		modifiers = {
+			guarantee_tension = 0.60
+			justify_war_goal_when_in_major_war_time = 0.20
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.15
+		}
+		ai_monarchist = yes
 	}
 
-	
 }
