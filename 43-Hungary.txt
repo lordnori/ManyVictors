@@ -1,0 +1,33 @@
+state= {
+	id=43
+	name="STATE_43"
+	manpower = 1607465
+	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 9660 14783 14784 14785 }
+	
+
+	
+	resources= { 
+		steel=3 
+		aluminium=100 
+		}
+	
+	history = {
+		owner = HUN
+	
+		add_core_of = HUN
+	
+		victory_points = {9660 20}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			arms_factory = 4
+			industrial_complex = 4
+		
+		}
+	}
+}

@@ -1,0 +1,32 @@
+state= {
+	id=22
+	name="STATE_22"
+	manpower = 271800	
+	state_category = town
+	
+	local_supplies = 2.1
+	provinces = { 9898 }
+	
+
+	
+	resources= { 
+		steel=70 
+		aluminium=50 
+		}
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = OCC
+		add_core_of = FRA
+	
+		victory_points = {9898 1}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 2
+		
+		}
+	}
+}
