@@ -1,0 +1,23 @@
+state= {
+	id=147
+	name="STATE_147"
+	manpower = 1543	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 197 }
+	
+	history = {
+		owner = FIN
+	
+		add_core_of = FIN
+		add_core_of = KAR
+	
+		victory_points = {197 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

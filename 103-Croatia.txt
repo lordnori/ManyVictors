@@ -1,0 +1,25 @@
+state= {
+	id=103
+	name="STATE_103"
+	manpower = 163105	
+	state_category = large_town
+	
+	local_supplies = 0.7
+	provinces = { 3868 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = CRO
+	
+		victory_points = {3868 3}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+		
+		}
+	}
+}

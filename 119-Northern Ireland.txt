@@ -1,0 +1,38 @@
+state= {
+	id=119
+	name="STATE_119"
+	manpower = 589444	
+	state_category = city
+	
+	buildings_max_level_factor = 1
+	local_supplies = 0.0
+	provinces = { 3379 3217 }
+	
+
+	
+	resources= { 
+		aluminium=2
+		}
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ENG
+		add_core_of = IRE
+		add_core_of = NIR
+	
+		victory_points = {3379 5}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+		
+		3379 = {
+				naval_base = 4
+			}
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state= {
+	id=163
+	name="STATE_163"
+	manpower = 18000	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 3943 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = YUG
+		add_core_of = CRO
+	
+		buildings = {
+			infrastructure = 4
+		
+		3943 = {
+				naval_base = 1
+			}
+		}
+	}
+}

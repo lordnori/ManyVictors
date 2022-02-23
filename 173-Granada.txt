@@ -1,0 +1,36 @@
+state= {
+	id=173
+	name="STATE_173"
+	manpower = 683133
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 3.4
+	provinces = { 9979 16760 16761 16762 }
+	
+
+	
+	resources= { 
+		steel=8.000
+		}
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		victory_points = {9979 5}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 4
+			industrial_complex = 2
+		
+		9979 = {
+				naval_base = 2
+
+			}
+		}
+	}
+}

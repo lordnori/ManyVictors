@@ -1,0 +1,31 @@
+state= {
+	id=161
+	name="STATE_161"
+	manpower = 646949
+	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 6606 15246 15247 15248 }
+	
+
+	
+	resources= { 
+		aluminium=9 
+		}
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = ITA
+	
+		victory_points = {6606 3}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			industrial_complex = 1
+		
+		}
+	}
+}

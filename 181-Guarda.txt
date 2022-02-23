@@ -1,0 +1,29 @@
+state= {
+	id=181
+	name="STATE_181"
+	manpower = 128626	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 6996 }
+	
+
+	
+	resources= { 
+		tungsten=150 
+		}
+	
+	history = {
+		owner = POR
+	
+		add_core_of = POR
+	
+		victory_points = {6996 1}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

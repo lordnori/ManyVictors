@@ -1,0 +1,36 @@
+state= {
+	id=142
+	name="STATE_142"
+	manpower = 73412
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 122 13641 }
+	
+
+	
+	resources= { 
+		chromium=1 
+		aluminium=15 
+		}
+	
+	history = {
+		owner = NOR
+	
+		add_core_of = NOR
+	
+		victory_points = {122 3}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			industrial_complex = 2
+		
+		122 = {
+				naval_base = 3
+				coastal_bunker = 2
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state= {
+	id=138
+	name="STATE_138"
+	manpower = 165426	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 9279 }
+	
+	history = {
+		owner = SWE
+	
+		add_core_of = SWE
+	
+		victory_points = {9279 5}
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+		
+		9279 = {
+				naval_base = 5
+				coastal_bunker = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+state= {
+	id=189
+	name="STATE_189"
+	manpower = 110068
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9483 13841 }
+	
+
+	
+	resources= { 
+		steel=2.000
+		}
+	
+	history = {
+		owner = LIT
+	
+		add_core_of = LIT
+	
+		victory_points = {9483 3}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}
