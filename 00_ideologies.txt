@@ -499,55 +499,104 @@ ideologies = {
 			french_communism = {
 			}
 			
-			tautinis_atgimimas = {
-			}
-			
-			bareyka = {
-			}
-			
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_VOLKIST_1"
-			"FACTION_NAME_VOLKIST_2"
-			"FACTION_NAME_VOLKIST_3"
-			"FACTION_NAME_VOLKIST_4"
-			"FACTION_NAME_VOLKIST_5"
-			"FACTION_NAME_VOLKIST_6"
+			"FACTION_NAME_PALINGENICIST_1"
+			"FACTION_NAME_PALINGENICIST_2"
+			"FACTION_NAME_PALINGENICIST_3"
+			"FACTION_NAME_PALINGENICIST_4"
+			"FACTION_NAME_PALINGENICIST_5"
+			"FACTION_NAME_PALINGENICIST_6"
 		}
 		
-		color = { 129 133 117 }
+		color = { 150 222 209 }
 		
 		rules = {
-			can_create_collaboration_government = yes
+			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = no
 			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = no
 			can_only_justify_war_on_threat_country = no
-			can_guarantee_other_ideologies = yes
+			can_guarantee_other_ideologies = no
 		}
 		
-		can_host_government_in_exile = yes
+		can_host_government_in_exile = no
 		
-		war_impact_on_world_tension = 0.5
-		faction_impact_on_world_tension = 0.3
+		war_impact_on_world_tension = 0.7
+		faction_impact_on_world_tension = 0.4
 		
 		modifiers = {
-			guarantee_tension = 0.40
-			justify_war_goal_when_in_major_war_time = 0.40
+			guarantee_tension = 0.70
+			justify_war_goal_when_in_major_war_time = 0.60
 			civilian_intel_to_others = 20.0
-			army_intel_to_others = 15.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 12.0
+			airforce_intel_to_others = 12.0
 		}
 		
 		faction_modifiers = {
-			faction_trade_opinion_factor = 0.30
+			faction_trade_opinion_factor = 0.10
 		}
-		ai_volkist = yes
+		ai_palingenicist = yes
 	}
 
-
+	populism = {
+	
+		types = {
+			
+			national_bolshevism = {
+			}
+		
+			strasserism = {
+			}
+		
+			french_communism = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_PALINGENICIST_1"
+			"FACTION_NAME_PALINGENICIST_2"
+			"FACTION_NAME_PALINGENICIST_3"
+			"FACTION_NAME_PALINGENICIST_4"
+			"FACTION_NAME_PALINGENICIST_5"
+			"FACTION_NAME_PALINGENICIST_6"
+		}
+		
+		color = { 150 222 209 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+		
+		can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 0.7
+		faction_impact_on_world_tension = 0.4
+		
+		modifiers = {
+			guarantee_tension = 0.70
+			justify_war_goal_when_in_major_war_time = 0.60
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 12.0
+			airforce_intel_to_others = 12.0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.10
+		}
+		ai_palingenicist = yes
+	}
 }
