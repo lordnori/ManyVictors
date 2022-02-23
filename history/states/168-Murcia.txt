@@ -1,0 +1,30 @@
+state= {
+	id=168
+	name="STATE_168"
+	manpower = 279029
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10024 16560 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		victory_points = {10024 3}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			dockyard = 1
+		
+		10024 = {
+				naval_base = 8
+
+			}
+		}
+	}
+}

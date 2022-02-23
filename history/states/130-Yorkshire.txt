@@ -1,0 +1,32 @@
+state= {
+	id=130
+	name="STATE_130"
+	manpower = 1414602
+	
+	state_category = metropolis
+	
+	local_supplies = 0.0
+	provinces = { 9315 14044 14045 14046 }
+	
+
+	
+	resources= { 
+		steel=71 
+		}
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ENG
+	
+		victory_points = {9315 15}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 10
+			arms_factory = 2
+			industrial_complex = 3
+		
+		}
+	}
+}

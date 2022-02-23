@@ -1,0 +1,29 @@
+state= {
+	id=146
+	name="STATE_146"
+	manpower = 57086
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9206 13642 2332 }
+	
+	history = {
+		owner = FIN
+	
+		add_core_of = FIN
+		add_core_of = KAR
+	
+		victory_points = {9206 3}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		
+		9206 = {
+				coastal_bunker = 1
+			}
+		}
+	}
+}

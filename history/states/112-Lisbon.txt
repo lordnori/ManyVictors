@@ -1,0 +1,37 @@
+state= {
+	id=112
+	name="STATE_112"
+	manpower = 1561930
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 9.6
+	provinces = { 11805 16308 16309 16310 }
+	
+
+	
+	resources= { 
+		tungsten=50.000
+		}
+	
+	history = {
+		owner = POR
+	
+		add_core_of = POR
+	
+		victory_points = {11805 20}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 5
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 2
+		
+		11805 = {
+				naval_base = 8
+			}
+		}
+	}
+}

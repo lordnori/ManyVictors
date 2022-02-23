@@ -1,0 +1,31 @@
+state= {
+	id=234
+	name="STATE_234"
+	manpower = 215064
+	
+	state_category = city
+	
+	local_supplies = 2.3
+	provinces = { 3734 15114 15115 15116 }
+	
+
+	
+	resources= { 
+		tungsten=17 
+		oil=12 
+		}
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+	
+		victory_points = {3734 5}
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		
+		}
+	}
+}

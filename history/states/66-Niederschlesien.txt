@@ -1,0 +1,33 @@
+state= {
+	id=66
+	name="STATE_66"
+	manpower = 508787
+	
+	state_category = large_city
+	
+	local_supplies = 5.2
+	provinces = { 9570 14321 14322 14323 }
+	
+
+	
+	resources= { 
+		steel=50 
+		aluminium=16 
+		}
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+		add_core_of = SIL
+	
+		victory_points = {9570 10}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 6
+			industrial_complex = 1
+		
+		}
+	}
+}

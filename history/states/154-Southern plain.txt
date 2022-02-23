@@ -1,0 +1,26 @@
+state= {
+	id=154
+	name="STATE_154"
+	manpower = 210414
+	
+	state_category = city
+	
+	local_supplies = 1.1
+	provinces = { 11659 14800 }
+	
+	history = {
+		owner = HUN
+	
+		add_core_of = HUN
+	
+		victory_points = {11659 1}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 3
+		
+		}
+	}
+}

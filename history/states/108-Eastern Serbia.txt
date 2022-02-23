@@ -1,0 +1,31 @@
+state= {
+	id=108
+	name="STATE_108"
+	manpower = 74421
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.1
+	provinces = { 9602 15380 }
+	
+
+	
+	resources= { 
+		steel=3.000
+		}
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SER
+	
+		victory_points = {9602 3}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}
