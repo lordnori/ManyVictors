@@ -1,0 +1,22 @@
+state= {
+	id=299
+	name="STATE_299"
+	manpower = 2463	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 12960 }
+	
+	history = {
+		owner = ENG
+	
+	
+		buildings = {
+			infrastructure = 2
+		
+		12960 = {
+				naval_base = 1
+			}
+		}
+	}
+}

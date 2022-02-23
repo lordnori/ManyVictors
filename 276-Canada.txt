@@ -1,0 +1,25 @@
+state= {
+	id=276
+	name="STATE_276"
+	manpower = 472275	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 3778 13156 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		victory_points = {3778 20}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 5
+			arms_factory = 2
+			industrial_complex = 4
+		
+		}
+	}
+}

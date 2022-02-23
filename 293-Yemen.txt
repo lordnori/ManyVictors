@@ -1,0 +1,33 @@
+state= {
+	id=293
+	name="STATE_293"
+	manpower = 1059361	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10840 }
+	
+
+	
+	resources= { 
+		oil=1 
+		}
+	
+	history = {
+		owner = YEM
+	
+		add_core_of = YEM
+	
+		victory_points = {10840 3}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		
+		10840 = {
+				naval_base = 1
+			}
+		}
+	}
+}

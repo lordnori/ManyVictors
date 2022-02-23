@@ -1,0 +1,30 @@
+state= {
+	id=267
+	name="STATE_267"
+	manpower = 287129	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 10737 }
+	
+
+	
+	resources= { 
+		tungsten=3 
+		}
+	
+	history = {
+		owner = AFG
+	
+		add_core_of = AFG
+	
+		victory_points = {10737 5}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+		
+		}
+	}
+}
