@@ -18,6 +18,7 @@ state= {
 		owner = BEL
 	
 		add_core_of = BEL
+		add_claim_by = GER
 	
 		victory_points = {516 30}
 		
