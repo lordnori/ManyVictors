@@ -9,13 +9,11 @@ state= {
 	provinces = { 362 13968 13969 13970 }
 	
 	history = {
-		owner = POL
+		owner = GER
 	
 		add_core_of = POL
-		add_core_of = DNZ
-		add_core_of = KSH
+		add_core_of = GER
 	
-		set_demilitarized_zone = yes
 		victory_points = {362 10}
 		
 		buildings = {

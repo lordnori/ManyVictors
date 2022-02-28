@@ -9,10 +9,12 @@ state= {
 	provinces = { 6682 14997 }
 	
 	history = {
-		owner = ROM
+		owner = TRA
 	
 		add_core_of = ROM
 		add_core_of = TRA
+		add_core_of = HUN
+		add_core_of = AUS
 	
 		victory_points = {6682 1}
 		

@@ -1,16 +1,18 @@
 state= {
 	id=72
 	name="STATE_72"
-	manpower = 50666	
+	manpower = 50666
+	
 	state_category = rural
 	
 	local_supplies = 0.3
 	provinces = { 9551 }
 	
 	history = {
-		owner = CZE
+		owner = AUS
 	
 		add_core_of = CZE
+		add_core_of = AUS
 	
 		buildings = {
 			infrastructure = 2

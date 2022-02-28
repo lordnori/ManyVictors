@@ -15,9 +15,11 @@ state= {
 		}
 	
 	history = {
-		owner = POL
+		owner = GLC
 	
-		add_core_of = POL
+		add_core_of = UKR
+		add_core_of = GLC
+		add_core_of = AUS
 	
 		victory_points = {3458 5}
 		

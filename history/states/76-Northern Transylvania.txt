@@ -1,15 +1,18 @@
 state= {
 	id=76
 	name="STATE_76"
-	manpower = 87137	
+	manpower = 87137
+	
 	state_category = town
 	
 	local_supplies = 1.6
 	provinces = { 6711 }
 	
 	history = {
-		owner = ROM
+		owner = TRA
 	
+		add_core_of = HUN
+		add_core_of = AUS
 		add_core_of = ROM
 		add_core_of = TRA
 	
