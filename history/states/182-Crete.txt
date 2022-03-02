@@ -9,9 +9,10 @@ state= {
 	provinces = { 9940 17020 }
 	
 	history = {
-		owner = GRE
+		owner = TUR
 	
 		add_core_of = GRE
+		add_core_of = CTE
 	
 		victory_points = {9940 5}
 		

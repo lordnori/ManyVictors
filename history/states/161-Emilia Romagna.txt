@@ -18,6 +18,7 @@ state= {
 		owner = ITA
 	
 		add_core_of = ITA
+		add_core_of = TSS
 	
 		victory_points = {6606 3}
 		

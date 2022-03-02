@@ -1,17 +1,19 @@
 state= {
 	id=163
 	name="STATE_163"
-	manpower = 18000	
+	manpower = 18000
+	
 	state_category = enclave
 	
 	local_supplies = 0.0
 	provinces = { 3943 }
 	
 	history = {
-		owner = ITA
+		owner = ILY
 	
-		add_core_of = YUG
+		add_core_of = ILY
 		add_core_of = CRO
+		add_core_of = AUS
 	
 		buildings = {
 			infrastructure = 4
