@@ -10,9 +10,10 @@ state= {
 	provinces = { 9262 13826 }
 	
 	history = {
-		owner = LAT
+		owner = UBD
 	
 		add_core_of = LAT
+		add_core_of = UBD
 	
 		victory_points = {9262 3}
 		
