@@ -9,9 +9,9 @@ state= {
 	provinces = { 3529 14609 14610 14611 }
 	
 	history = {
-		owner = SOV
+		owner = SGD
 	
-		add_core_of = SOV
+		add_core_of = SGD
 	
 		victory_points = {3529 30}
 		
