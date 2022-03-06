@@ -1,7 +1,8 @@
 state= {
 	id=295
 	name="STATE_295"
-	manpower = 172729	
+	manpower = 172729
+	
 	state_category = rural
 	
 	local_supplies = 0.2
@@ -14,7 +15,7 @@ state= {
 		}
 	
 	history = {
-		owner = BEL
+		owner = COG
 	
 		add_core_of = COG
 	

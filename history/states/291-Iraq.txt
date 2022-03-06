@@ -15,9 +15,11 @@ state= {
 		}
 	
 	history = {
-		owner = IRQ
+		owner = BAG
 	
 		add_core_of = IRQ
+		add_core_of = BAG
+		add_claim_by = TUR
 	
 		victory_points = {2097 10}
 		

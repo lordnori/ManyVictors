@@ -9,9 +9,10 @@ state= {
 	provinces = { 8124 18722 }
 	
 	history = {
-		owner = FRA
+		owner = DJI
 	
 		add_core_of = DJI
+		add_claim_by = GER
 	
 		victory_points = {8124 1}
 		
