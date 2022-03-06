@@ -498,6 +498,9 @@ ideologies = {
 		
 			french_communism = {
 			}
+
+			menshevik_palingenicism = {
+			}
 			
 		}
 		
@@ -663,10 +666,160 @@ ideologies = {
 			"FACTION_NAME_SOCIALIST_6"
 		}
 		
-		color = { 150 222 209 }
+		color = { 231 84 128 }
 		
 		rules = {
-			can_create_collaboration_government = no
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = no
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.3
+		faction_impact_on_world_tension = 0.5
+		
+		modifiers = {
+			guarantee_tension = 0.40
+			justify_war_goal_when_in_major_war_time = 0.50
+			civilian_intel_to_others = 22.5
+			army_intel_to_others = 12.5
+			navy_intel_to_others = 12.0
+			airforce_intel_to_others = 12.0
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.25
+		}
+		ai_democratic = yes
+	}
+
+	theocracy = {
+	
+		types = {
+			
+			papacy = {
+			}
+		
+			wahhabism = {
+			}
+		
+			salafism = {
+			}
+
+			central_tibetan_administration = {
+			}
+
+			national_catholicism = {
+			}
+
+			state_shintoism = {
+			}
+
+			knights_hospitallier = {
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_THEOCRATIC_1"
+			"FACTION_NAME_THEOCRATIC_2"
+			"FACTION_NAME_THEOCRATIC_3"
+			"FACTION_NAME_THEOCRATIC_4"
+			"FACTION_NAME_THEOCRATIC_5"
+			"FACTION_NAME_THEOCRATIC_6"
+		}
+		
+		color = { 255 140 0 }
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+		
+		can_host_government_in_exile = no
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 0.95
+		
+		modifiers = {
+			guarantee_tension = 0.80
+			justify_war_goal_when_in_major_war_time = 0.05
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 5.0
+			airforce_intel_to_others = 5.0
+		}
+		
+		ai_theocratic = yes
+	}
+
+	radical_socialism = {
+	
+		types = {
+			
+			agrarian_socialism = {
+			}
+		
+			syndicalism = {
+			}
+		
+			pan-africanism = {
+			}
+
+			ba'athism = {
+			}
+
+			utopian_socialism = {
+			}
+
+			menshevik_socialism = {
+			}
+
+			narodnik_socialism = {
+			}
+
+			council_socialism = {
+			}
+
+			autonomism = {
+			}
+
+			ethical_socialism = {
+			}
+
+			left_kuomintang = {
+			}
+
+			irish_republican_socialism = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_RADICAL_SOCIALIST_1"
+			"FACTION_NAME_RADICAL_SOCIALIST_2"
+			"FACTION_NAME_RADICAL_SOCIALIST_3"
+			"FACTION_NAME_RADICAL_SOCIALIST_4"
+			"FACTION_NAME_RADICAL_SOCIALIST_5"
+			"FACTION_NAME_RADICAL_SOCIALIST_6"
+		}
+		
+		color = { 255 0 0 }
+		
+		rules = {
+			can_create_collaboration_government = yes
 			can_declare_war_on_same_ideology = no
 			can_force_government = yes
 			can_send_volunteers = yes
@@ -678,21 +831,21 @@ ideologies = {
 		
 		can_host_government_in_exile = no
 		
-		war_impact_on_world_tension = 0.7
+		war_impact_on_world_tension = 0.5
 		faction_impact_on_world_tension = 0.4
 		
 		modifiers = {
-			guarantee_tension = 0.70
+			guarantee_tension = 0.45
 			justify_war_goal_when_in_major_war_time = 0.60
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 10.0
+			civilian_intel_to_others = 20
+			army_intel_to_others = 12.0
 			navy_intel_to_others = 12.0
 			airforce_intel_to_others = 12.0
 		}
 		
 		faction_modifiers = {
-			faction_trade_opinion_factor = 0.10
+			faction_trade_opinion_factor = 0.15
 		}
-		ai_palingenicist = yes
+		ai_radical_socialist = yes
 	}
 }
