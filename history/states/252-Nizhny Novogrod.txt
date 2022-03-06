@@ -1,16 +1,17 @@
 state= {
 	id=252
 	name="STATE_252"
-	manpower = 179690	
+	manpower = 179690
+	
 	state_category = city
 	
 	local_supplies = 0.0
 	provinces = { 11375 }
 	
 	history = {
-		owner = SOV
+		owner = MVK
 	
-		add_core_of = SOV
+		add_core_of = MVK
 	
 		victory_points = {11375 10}
 		
