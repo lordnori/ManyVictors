@@ -97,7 +97,7 @@ set_popularities = {
 		elections_allowed = no
 	}
 	set_popularities = {
-	anarchist = 100
+	anarchist = 65
 	centrist = 0
 	authoritarian = 0
 	conservative = 0
@@ -108,7 +108,7 @@ set_popularities = {
 	populism = 0
 	social_democracy = 0
 	theocracy = 0
-	radical_socialism = 60
+	radical_socialism = 35
 	}
 }
 
