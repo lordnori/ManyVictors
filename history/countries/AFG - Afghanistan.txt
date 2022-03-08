@@ -134,7 +134,7 @@ set_popularities = {
 	set_popularities = {
 	anarchist = 0
 	centrist = 0
-	authoritarian = 70
+	authoritarian = 50
 	conservative = 0
 	liberal = 0
 	monarchy = 0
@@ -143,6 +143,6 @@ set_popularities = {
 	populism = 0
 	social_democracy = 0
 	theocracy = 30
-	radical_socialism = 60
+	radical_socialism = 20
 	}
 }
