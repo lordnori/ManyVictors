@@ -1,0 +1,21 @@
+state= {
+	id=8910
+	name="STATE_8910"
+	manpower = 1922	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10605 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

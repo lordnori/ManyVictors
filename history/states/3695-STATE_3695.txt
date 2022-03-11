@@ -1,0 +1,21 @@
+state= {
+	id=3695
+	name="STATE_3695"
+	manpower = 3863	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 1676 }
+	
+	history = {
+		owner = TAN
+	
+		add_core_of = TAN
+		add_core_of = SOV
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

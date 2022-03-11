@@ -1,0 +1,22 @@
+state= {
+	id=8825
+	name="STATE_8825"
+	manpower = 4116
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7671 16806 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = SYR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

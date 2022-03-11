@@ -1,0 +1,27 @@
+state= {
+	id=7718
+	name="STATE_7718"
+	manpower = 1003025
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 1055 17836 17837 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		1055 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=9430
+	name="STATE_9430"
+	manpower = 62201	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 6008 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = RCG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

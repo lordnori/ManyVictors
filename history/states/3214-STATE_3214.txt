@@ -1,0 +1,20 @@
+state= {
+	id=3214
+	name="STATE_3214"
+	manpower = 46277	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 4615 }
+	
+	history = {
+		owner = NZL
+	
+		add_core_of = NZL
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=9082
+	name="STATE_9082"
+	manpower = 139222	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 2154 }
+	
+	history = {
+		owner = BEL
+	
+		add_core_of = COG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

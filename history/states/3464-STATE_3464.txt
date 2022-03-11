@@ -1,0 +1,20 @@
+state= {
+	id=3464
+	name="STATE_3464"
+	manpower = 70961	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 4993 }
+	
+	history = {
+		owner = OMA
+	
+		add_core_of = OMA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

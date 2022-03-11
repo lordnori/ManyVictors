@@ -1,0 +1,21 @@
+state= {
+	id=3489
+	name="STATE_3489"
+	manpower = 248333
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 8006 18816 18817 }
+	
+	history = {
+		owner = LIB
+	
+		add_core_of = LIB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

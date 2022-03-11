@@ -1,0 +1,23 @@
+state= {
+	id=484
+	name="STATE_484"
+	manpower = 40688	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12461 }
+	
+	history = {
+		owner = MEX
+	
+		add_core_of = MEX
+	
+		victory_points = {12461 10}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		
+		}
+	}
+}

@@ -1,0 +1,27 @@
+state= {
+	id=448
+	name="STATE_448"
+	manpower = 200628
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 1149 17315 17316 17317 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = LBA
+	
+		victory_points = {1149 10}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 6
+		
+		1149 = {
+				naval_base = 5
+			}
+		}
+	}
+}

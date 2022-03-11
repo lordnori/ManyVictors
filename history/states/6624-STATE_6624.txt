@@ -1,0 +1,21 @@
+state= {
+	id=6624
+	name="STATE_6624"
+	manpower = 5907	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 2157 }
+	
+	history = {
+		owner = AST
+	
+		add_core_of = AST
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

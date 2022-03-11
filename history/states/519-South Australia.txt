@@ -1,0 +1,27 @@
+state= {
+	id=519
+	name="STATE_519"
+	manpower = 104978	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12910 13169 13170 }
+	
+	history = {
+		owner = AST
+	
+		add_core_of = AST
+	
+		victory_points = {12910 15}
+		
+		buildings = {
+			infrastructure = 3
+		
+		12910 = {
+				naval_base = 2
+
+			}
+		}
+	}
+}

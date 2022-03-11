@@ -1,0 +1,20 @@
+state= {
+	id=5304
+	name="STATE_5304"
+	manpower = 253156	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10789 }
+	
+	history = {
+		owner = AFG
+	
+		add_core_of = AFG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

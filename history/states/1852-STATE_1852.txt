@@ -1,0 +1,22 @@
+state= {
+	id=1852
+	name="STATE_1852"
+	manpower = 94348
+	
+	state_category = rural
+	
+	local_supplies = 0.6
+	provinces = { 6597 14733 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = UKR
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

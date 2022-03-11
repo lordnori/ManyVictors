@@ -1,0 +1,21 @@
+state= {
+	id=9689
+	name="STATE_9689"
+	manpower = 23	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7806 }
+	
+	history = {
+		owner = MON
+	
+		add_core_of = MON
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

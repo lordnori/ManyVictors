@@ -1,0 +1,20 @@
+state= {
+	id=8923
+	name="STATE_8923"
+	manpower = 56181	
+	state_category = pastoral
+	
+	local_supplies = 0.9
+	provinces = { 8107 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = GYA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

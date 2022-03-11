@@ -1,0 +1,20 @@
+state= {
+	id=3163
+	name="STATE_3163"
+	manpower = 178870	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 5169 }
+	
+	history = {
+		owner = CHL
+	
+		add_core_of = CHL
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

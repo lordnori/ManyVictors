@@ -1,0 +1,21 @@
+state= {
+	id=3535
+	name="STATE_3535"
+	manpower = 368378	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12979 }
+	
+	history = {
+		owner = BOL
+	
+		add_core_of = BOL
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

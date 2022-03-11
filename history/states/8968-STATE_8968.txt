@@ -1,0 +1,21 @@
+state= {
+	id=8968
+	name="STATE_8968"
+	manpower = 66506	
+	state_category = enclave
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 13213 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = GAM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

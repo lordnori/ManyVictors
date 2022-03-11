@@ -1,0 +1,20 @@
+state= {
+	id=6516
+	name="STATE_6516"
+	manpower = 51692	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 12645 }
+	
+	history = {
+		owner = AST
+	
+		add_core_of = AST
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

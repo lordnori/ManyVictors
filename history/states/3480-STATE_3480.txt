@@ -1,0 +1,20 @@
+state= {
+	id=3480
+	name="STATE_3480"
+	manpower = 86364	
+	state_category = rural
+	
+	local_supplies = 0.1
+	provinces = { 10858 }
+	
+	history = {
+		owner = BEL
+	
+		add_core_of = COG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

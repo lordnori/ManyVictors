@@ -1,0 +1,21 @@
+state= {
+	id=3626
+	name="STATE_3626"
+	manpower = 37434	
+	state_category = pastoral
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10755 }
+	
+	history = {
+		owner = TIB
+	
+		add_core_of = TIB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

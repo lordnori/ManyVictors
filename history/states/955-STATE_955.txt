@@ -1,0 +1,21 @@
+state= {
+	id=955
+	name="STATE_955"
+	manpower = 32669
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 9204 13675 }
+	
+	history = {
+		owner = NOR
+	
+		add_core_of = NOR
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

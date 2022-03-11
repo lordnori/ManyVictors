@@ -1,0 +1,21 @@
+state= {
+	id=8911
+	name="STATE_8911"
+	manpower = 1922	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10721 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

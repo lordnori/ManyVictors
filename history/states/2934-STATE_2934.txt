@@ -1,0 +1,23 @@
+state= {
+	id=2934
+	name="STATE_2934"
+	manpower = 302122	
+	state_category = metropolis
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.9
+	provinces = { 6855 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		victory_points = {6855 5}
+		
+		buildings = {
+			infrastructure = 5
+		
+		}
+	}
+}

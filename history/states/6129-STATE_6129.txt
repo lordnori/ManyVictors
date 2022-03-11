@@ -1,0 +1,20 @@
+state= {
+	id=6129
+	name="STATE_6129"
+	manpower = 37166	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 8211 }
+	
+	history = {
+		owner = BOL
+	
+		add_core_of = BOL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

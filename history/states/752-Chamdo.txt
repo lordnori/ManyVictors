@@ -1,0 +1,25 @@
+state= {
+	id=752
+	name="STATE_752"
+	manpower = 59405
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.3
+	provinces = { 4999 17625 17626 17627 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		victory_points = {4999 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

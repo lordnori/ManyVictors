@@ -1,0 +1,21 @@
+state= {
+	id=7612
+	name="STATE_7612"
+	manpower = 90726
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 6263 14099 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

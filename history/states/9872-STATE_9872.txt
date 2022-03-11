@@ -1,0 +1,23 @@
+state= {
+	id=9872
+	name="STATE_9872"
+	manpower = 218030
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6431 14537 14538 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = UKR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

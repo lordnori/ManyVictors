@@ -1,0 +1,22 @@
+state= {
+	id=1062
+	name="STATE_1062"
+	manpower = 165187
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 11378 13856 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SCO
+		add_core_of = ENG
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

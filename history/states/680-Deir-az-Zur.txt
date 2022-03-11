@@ -1,0 +1,24 @@
+state= {
+	id=680
+	name="STATE_680"
+	manpower = 10128
+	
+	state_category = wasteland
+	
+	local_supplies = 1.0
+	provinces = { 1549 16711 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = SYR
+		add_core_of = KUR
+	
+		victory_points = {1549 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

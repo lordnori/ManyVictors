@@ -1,0 +1,24 @@
+state= {
+	id=404
+	name="STATE_404"
+	manpower = 3768	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7597 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = KAZ
+		add_core_of = SOV
+	
+		victory_points = {7597 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=3566
+	name="STATE_3566"
+	manpower = 144455	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 10912 }
+	
+	history = {
+		owner = VEN
+	
+		add_core_of = VEN
+	
+		buildings = {
+			infrastructure = 1
+		
+		10912 = {
+				naval_base = 2
+			}
+		}
+	}
+}

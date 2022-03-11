@@ -1,0 +1,26 @@
+state= {
+	id=5845
+	name="STATE_5845"
+	manpower = 625023
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 7081 16742 16743 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = ALG
+	
+		victory_points = {7081 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		7081 = {
+				naval_base = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=5813
+	name="STATE_5813"
+	manpower = 202800
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 10091 16744 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = TUN
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

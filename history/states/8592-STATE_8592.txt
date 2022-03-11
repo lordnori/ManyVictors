@@ -1,0 +1,25 @@
+state= {
+	id=8592
+	name="STATE_8592"
+	manpower = 203541	
+	state_category = rural
+	
+	buildings_max_level_factor = 1
+	local_supplies = 0.3
+	provinces = { 10175 }
+	
+	history = {
+		owner = INS
+	
+		add_core_of = INS
+	
+		buildings = {
+			infrastructure = 1
+		
+		10175 = {
+				naval_base = 1
+
+			}
+		}
+	}
+}

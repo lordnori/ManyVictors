@@ -1,0 +1,21 @@
+state= {
+	id=5333
+	name="STATE_5333"
+	manpower = 302773	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 563 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+	
+		set_demilitarized_zone = yes
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

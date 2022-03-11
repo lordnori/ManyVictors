@@ -1,0 +1,25 @@
+state= {
+	id=739
+	name="STATE_739"
+	manpower = 12684	
+	state_category = small_island
+	
+	buildings_max_level_factor = 1	
+	local_supplies = 0.0
+	provinces = { 1869 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		buildings = {
+			infrastructure = 2
+		
+		1869 = {
+				naval_base = 1
+
+			}
+		}
+	}
+}

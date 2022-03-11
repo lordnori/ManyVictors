@@ -1,0 +1,32 @@
+state= {
+	id=564
+	name="STATE_564"
+	manpower = 27473	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7835 13152 }
+	
+
+	
+	resources= { 
+		steel=10 
+		chromium=12 
+		tungsten=10 
+		aluminium=4 
+		}
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = BYA
+	
+		victory_points = {7835 2}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

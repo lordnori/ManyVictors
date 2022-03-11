@@ -1,0 +1,22 @@
+state= {
+	id=9945
+	name="STATE_9945"
+	manpower = 228414	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+	provinces = { 11341 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = BLR
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

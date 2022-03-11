@@ -1,0 +1,21 @@
+state= {
+	id=9482
+	name="STATE_9482"
+	manpower = 19810	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10868 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = MLI
+	
+		buildings = {
+			infrastructure = 0
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=2020
+	name="STATE_2020"
+	manpower = 78910
+	
+	state_category = rural
+	
+	local_supplies = 0.1
+	provinces = { 9818 15702 }
+	
+	history = {
+		owner = BUL
+	
+		add_core_of = BUL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

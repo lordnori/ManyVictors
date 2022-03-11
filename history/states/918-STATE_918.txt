@@ -1,0 +1,22 @@
+state= {
+	id=918
+	name="STATE_918"
+	manpower = 143509
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 9611 14995 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = CRO
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

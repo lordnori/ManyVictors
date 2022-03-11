@@ -1,0 +1,21 @@
+state= {
+	id=9135
+	name="STATE_9135"
+	manpower = 126290
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12122 18665 18666 }
+	
+	history = {
+		owner = SIA
+	
+		add_core_of = SIA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

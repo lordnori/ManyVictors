@@ -1,0 +1,23 @@
+state= {
+	id=9143
+	name="STATE_9143"
+	manpower = 1789	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 13053 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = HAW
+	
+		buildings = {
+			infrastructure = 2
+		
+		13053 = {
+				naval_base = 1
+			}
+		}
+	}
+}

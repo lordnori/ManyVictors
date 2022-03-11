@@ -1,0 +1,23 @@
+state= {
+	id=1732
+	name="STATE_1732"
+	manpower = 146200	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7114 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		buildings = {
+			infrastructure = 4
+		
+		7114 = {
+				naval_base = 1
+			}
+		}
+	}
+}

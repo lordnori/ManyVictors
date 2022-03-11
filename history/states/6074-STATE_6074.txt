@@ -1,0 +1,21 @@
+state= {
+	id=6074
+	name="STATE_6074"
+	manpower = 174412
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 11754 15406 }
+	
+	history = {
+		owner = BUL
+	
+		add_core_of = BUL
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

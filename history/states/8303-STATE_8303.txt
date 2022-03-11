@@ -1,0 +1,21 @@
+state= {
+	id=8303
+	name="STATE_8303"
+	manpower = 181918
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 1082 18001 }
+	
+	history = {
+		owner = RAJ
+	
+		add_core_of = BRM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

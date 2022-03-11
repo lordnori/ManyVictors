@@ -1,0 +1,22 @@
+state= {
+	id=5130
+	name="STATE_5130"
+	manpower = 3768	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12385 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = KAZ
+		add_core_of = SOV
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

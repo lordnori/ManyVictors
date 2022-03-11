@@ -1,0 +1,22 @@
+state= {
+	id=5335
+	name="STATE_5335"
+	manpower = 454160
+	
+	state_category = metropolis
+	
+	local_supplies = 0.0
+	provinces = { 3558 14527 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+	
+		set_demilitarized_zone = yes
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

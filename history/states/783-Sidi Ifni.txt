@@ -1,0 +1,25 @@
+state= {
+	id=783
+	name="STATE_783"
+	manpower = 11043	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 12857 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = MOR
+	
+		victory_points = {12857 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		12857 = {
+				naval_base = 1
+			}
+		}
+	}
+}

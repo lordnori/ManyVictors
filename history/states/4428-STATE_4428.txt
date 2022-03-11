@@ -1,0 +1,22 @@
+state= {
+	id=4428
+	name="STATE_4428"
+	manpower = 117473	
+	state_category = metropolis
+	
+	local_supplies = 0.2
+	provinces = { 12782 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		victory_points = {12782 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

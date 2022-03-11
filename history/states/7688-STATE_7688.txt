@@ -1,0 +1,23 @@
+state= {
+	id=7688
+	name="STATE_7688"
+	manpower = 251923
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7192 18226 18227 18228 }
+	
+	history = {
+		owner = GXC
+	
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

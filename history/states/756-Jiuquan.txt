@@ -1,0 +1,24 @@
+state= {
+	id=756
+	name="STATE_756"
+	manpower = 312500
+	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 1778 15592 15593 }
+	
+	history = {
+		owner = XSM
+	
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

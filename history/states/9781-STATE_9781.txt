@@ -1,0 +1,23 @@
+state= {
+	id=9781
+	name="STATE_9781"
+	manpower = 96997
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6674 15453 15454 15455 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = KBK
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

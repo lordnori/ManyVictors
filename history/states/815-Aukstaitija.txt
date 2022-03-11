@@ -1,0 +1,24 @@
+state= {
+	id=815
+	name="STATE_815"
+	manpower = 22015
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6229 13870 }
+	
+	history = {
+		owner = LIT
+	
+		add_core_of = LIT
+	
+		victory_points = {6229 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

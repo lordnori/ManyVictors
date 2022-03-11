@@ -1,0 +1,20 @@
+state= {
+	id=4826
+	name="STATE_4826"
+	manpower = 200386	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 4834 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

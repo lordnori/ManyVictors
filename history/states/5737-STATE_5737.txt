@@ -1,0 +1,21 @@
+state= {
+	id=5737
+	name="STATE_5737"
+	manpower = 18341
+	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 4120 17463 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = LBA
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

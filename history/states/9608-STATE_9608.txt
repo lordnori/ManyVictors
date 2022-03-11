@@ -1,0 +1,22 @@
+state= {
+	id=9608
+	name="STATE_9608"
+	manpower = 84000	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 11832 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SER
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

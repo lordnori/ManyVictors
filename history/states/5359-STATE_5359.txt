@@ -1,0 +1,20 @@
+state= {
+	id=5359
+	name="STATE_5359"
+	manpower = 279661	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12258 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SRL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

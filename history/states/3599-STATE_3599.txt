@@ -1,0 +1,20 @@
+state= {
+	id=3599
+	name="STATE_3599"
+	manpower = 338242	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 4600 }
+	
+	history = {
+		owner = CUB
+	
+		add_core_of = CUB
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

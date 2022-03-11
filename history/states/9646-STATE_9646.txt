@@ -1,0 +1,21 @@
+state= {
+	id=9646
+	name="STATE_9646"
+	manpower = 16185	
+	state_category = small_island
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6201 }
+	
+	history = {
+		owner = EST
+	
+		add_core_of = EST
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=1800
+	name="STATE_1800"
+	manpower = 89248
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 11565 15153 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = OCC
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

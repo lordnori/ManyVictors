@@ -1,0 +1,21 @@
+state= {
+	id=4085
+	name="STATE_4085"
+	manpower = 280157	
+	state_category = metropolis
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7462 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

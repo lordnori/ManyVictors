@@ -1,0 +1,21 @@
+state= {
+	id=8928
+	name="STATE_8928"
+	manpower = 9180	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 10973 }
+	
+	history = {
+		owner = PAR
+	
+		add_core_of = PAR
+		add_core_of = BOL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

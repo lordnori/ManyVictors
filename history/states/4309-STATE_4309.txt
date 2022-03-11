@@ -1,0 +1,25 @@
+state= {
+	id=4309
+	name="STATE_4309"
+	manpower = 226012	
+	state_category = large_city
+	
+	local_supplies = 2.4
+	provinces = { 3325 }
+	
+	history = {
+		owner = DEN
+	
+		add_core_of = DEN
+	
+		victory_points = {3325 5}
+		
+		buildings = {
+			infrastructure = 5
+		
+		3325 = {
+				naval_base = 3
+			}
+		}
+	}
+}

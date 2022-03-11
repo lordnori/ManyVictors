@@ -1,0 +1,35 @@
+state= {
+	id=319
+	name="STATE_319"
+	manpower = 628000
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 7660 }
+	
+
+	
+	resources= { 
+		chromium=1 
+		}
+	
+	history = {
+		owner = DAS
+	
+		add_core_of = DOM
+	
+		victory_points = {7660 5}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 3
+		
+		7660 = {
+				naval_base = 2
+			}
+		}
+	}
+}

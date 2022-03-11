@@ -1,0 +1,22 @@
+state= {
+	id=8342
+	name="STATE_8342"
+	manpower = 1799	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 2853 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = YAK
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

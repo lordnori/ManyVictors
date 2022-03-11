@@ -1,0 +1,24 @@
+state= {
+	id=9335
+	name="STATE_9335"
+	manpower = 8130
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10750 16733 }
+	
+	history = {
+		owner = XSM
+	
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

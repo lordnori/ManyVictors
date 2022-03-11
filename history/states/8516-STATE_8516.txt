@@ -1,0 +1,22 @@
+state= {
+	id=8516
+	name="STATE_8516"
+	manpower = 8471
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9983 17287 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = TUN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

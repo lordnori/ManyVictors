@@ -1,0 +1,23 @@
+state= {
+	id=332
+	name="STATE_332"
+	manpower = 4435
+	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 1426 13165 13180 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+		add_core_of = NFL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

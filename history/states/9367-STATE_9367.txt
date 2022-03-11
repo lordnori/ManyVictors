@@ -1,0 +1,24 @@
+state= {
+	id=9367
+	name="STATE_9367"
+	manpower = 17073
+	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10315 16490 16491 16492 }
+	
+	history = {
+		owner = SIK
+	
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

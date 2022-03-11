@@ -1,0 +1,22 @@
+state= {
+	id=1823
+	name="STATE_1823"
+	manpower = 74250
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 6589 14202 14203 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = UKR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

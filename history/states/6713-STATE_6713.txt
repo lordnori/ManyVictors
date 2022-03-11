@@ -1,0 +1,21 @@
+state= {
+	id=6713
+	name="STATE_6713"
+	manpower = 391345
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 1100 16739 }
+	
+	history = {
+		owner = JAP
+	
+		add_core_of = KOR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

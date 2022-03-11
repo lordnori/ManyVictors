@@ -1,0 +1,26 @@
+state= {
+	id=1059
+	name="STATE_1059"
+	manpower = 495562	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 6300 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SCO
+		add_core_of = ENG
+	
+		victory_points = {6300 1}
+		
+		buildings = {
+			infrastructure = 5
+			dockyard = 4
+		6300 = {
+				naval_base = 5
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=6174
+	name="STATE_6174"
+	manpower = 139022	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10494 }
+	
+	history = {
+		owner = COL
+	
+		add_core_of = COL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

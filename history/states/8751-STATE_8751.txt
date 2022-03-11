@@ -1,0 +1,25 @@
+state= {
+	id=8751
+	name="STATE_8751"
+	manpower = 239272	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 12268 }
+	
+	history = {
+		owner = INS
+	
+		add_core_of = INS
+	
+		victory_points = {12268 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		12268 = {
+				naval_base = 1
+			}
+		}
+	}
+}

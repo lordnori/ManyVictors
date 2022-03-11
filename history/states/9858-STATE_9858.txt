@@ -1,0 +1,22 @@
+state= {
+	id=9858
+	name="STATE_9858"
+	manpower = 160556
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.3
+	provinces = { 417 14508 14509 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

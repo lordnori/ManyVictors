@@ -1,0 +1,21 @@
+state= {
+	id=1586
+	name="STATE_1586"
+	manpower = 433818
+	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 6946 15425 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = ITA
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=9250
+	name="STATE_9250"
+	manpower = 782608
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 4256 17228 17229 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = PRC
+		add_core_of = CHI
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

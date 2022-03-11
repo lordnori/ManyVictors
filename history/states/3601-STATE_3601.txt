@@ -1,0 +1,20 @@
+state= {
+	id=3601
+	name="STATE_3601"
+	manpower = 225494	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7546 }
+	
+	history = {
+		owner = CUB
+	
+		add_core_of = CUB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

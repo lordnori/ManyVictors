@@ -1,0 +1,21 @@
+state= {
+	id=6507
+	name="STATE_6507"
+	manpower = 26266	
+	state_category = large_town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10581 }
+	
+	history = {
+		owner = AST
+	
+		add_core_of = AST
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

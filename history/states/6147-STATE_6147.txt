@@ -1,0 +1,20 @@
+state= {
+	id=6147
+	name="STATE_6147"
+	manpower = 214959	
+	state_category = rural
+	
+	local_supplies = 0.6
+	provinces = { 5088 }
+	
+	history = {
+		owner = VEN
+	
+		add_core_of = VEN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=1008
+	name="STATE_1008"
+	manpower = 113133
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 11303 13978 }
+	
+	history = {
+		owner = IRE
+	
+		add_core_of = IRE
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

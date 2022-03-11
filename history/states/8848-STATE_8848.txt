@@ -1,0 +1,20 @@
+state= {
+	id=8848
+	name="STATE_8848"
+	manpower = 124021	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 12101 }
+	
+	history = {
+		owner = SAU
+	
+		add_core_of = SAU
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

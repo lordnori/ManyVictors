@@ -1,0 +1,22 @@
+state= {
+	id=1599
+	name="STATE_1599"
+	manpower = 123940
+	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 6836 15792 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = CAT
+		add_core_of = SPR
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

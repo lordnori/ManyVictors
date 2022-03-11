@@ -1,0 +1,24 @@
+state= {
+	id=3200
+	name="STATE_3200"
+	manpower = 284483
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 3745 16592 16593 }
+	
+	history = {
+		owner = XSM
+	
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

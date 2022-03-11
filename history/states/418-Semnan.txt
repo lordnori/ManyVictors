@@ -1,0 +1,23 @@
+state= {
+	id=418
+	name="STATE_418"
+	manpower = 12783
+	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 8093 16861 }
+	
+	history = {
+		owner = PER
+	
+		add_core_of = PER
+	
+		victory_points = {8093 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

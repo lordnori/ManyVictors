@@ -1,0 +1,21 @@
+state= {
+	id=7035
+	name="STATE_7035"
+	manpower = 89419
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 5047 18473 18474 18475 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = ERI
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

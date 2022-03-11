@@ -1,0 +1,22 @@
+state= {
+	id=9504
+	name="STATE_9504"
+	manpower = 22787
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9770 15977 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state= {
+	id=657
+	name="STATE_657"
+	manpower = 13407	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 675 }
+	
+
+	
+	resources= { 
+		steel=18 
+		}
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = FER
+	
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		
+		}
+	}
+}

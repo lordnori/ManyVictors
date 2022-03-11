@@ -1,0 +1,22 @@
+state= {
+	id=778
+	name="STATE_778"
+	manpower = 562267	
+	state_category = pastoral
+	
+	local_supplies = 0.2
+	provinces = { 10836 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = VOL
+	
+		victory_points = {10836 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

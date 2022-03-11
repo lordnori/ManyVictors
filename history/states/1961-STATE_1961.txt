@@ -1,0 +1,22 @@
+state= {
+	id=1961
+	name="STATE_1961"
+	manpower = 114173
+	
+	state_category = town
+	
+	local_supplies = 0.3
+	provinces = { 6326 13853 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = BLR
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=1335
+	name="STATE_1335"
+	manpower = 19028	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6052 }
+	
+	history = {
+		owner = FIN
+	
+		add_core_of = FIN
+		add_core_of = KAR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

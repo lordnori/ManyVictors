@@ -1,0 +1,20 @@
+state= {
+	id=3825
+	name="STATE_3825"
+	manpower = 45206	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 1364 }
+	
+	history = {
+		owner = MAL
+	
+		add_core_of = MAL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

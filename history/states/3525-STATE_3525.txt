@@ -1,0 +1,20 @@
+state= {
+	id=3525
+	name="STATE_3525"
+	manpower = 178020	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 12901 }
+	
+	history = {
+		owner = PAR
+	
+		add_core_of = PAR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

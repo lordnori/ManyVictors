@@ -1,0 +1,23 @@
+state= {
+	id=892
+	name="STATE_892"
+	manpower = 124927
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 3833 15748 15749 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = MAC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state= {
+	id=322
+	name="STATE_322"
+	manpower = 37434	
+	state_category = pastoral
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 2010 }
+	
+
+	
+	resources= { 
+		tungsten=2.000
+		}
+	
+	history = {
+		owner = TIB
+	
+		add_core_of = TIB
+	
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=1692
+	name="STATE_1692"
+	manpower = 68313
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.1
+	provinces = { 7068 16703 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

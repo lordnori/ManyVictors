@@ -1,0 +1,21 @@
+state= {
+	id=8234
+	name="STATE_8234"
+	manpower = 58665	
+	state_category = town
+	
+	local_supplies = 0.4
+	provinces = { 6309 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+		add_core_of = KSH
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

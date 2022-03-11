@@ -1,0 +1,23 @@
+state= {
+	id=9003
+	name="STATE_9003"
+	manpower = 140129
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 1499 15210 15211 }
+	
+	history = {
+		owner = MAN
+	
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

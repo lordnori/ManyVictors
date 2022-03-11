@@ -1,0 +1,20 @@
+state= {
+	id=3606
+	name="STATE_3606"
+	manpower = 151156	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 12878 }
+	
+	history = {
+		owner = COS
+	
+		add_core_of = COS
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

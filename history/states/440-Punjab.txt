@@ -1,0 +1,22 @@
+state= {
+	id=440
+	name="STATE_440"
+	manpower = 1049807	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 10887 }
+	
+	history = {
+		owner = RAJ
+	
+		add_core_of = PAK
+	
+		victory_points = {10887 5}
+		
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

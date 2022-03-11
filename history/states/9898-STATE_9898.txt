@@ -1,0 +1,21 @@
+state= {
+	id=9898
+	name="STATE_9898"
+	manpower = 333910	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 536 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = UKR
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

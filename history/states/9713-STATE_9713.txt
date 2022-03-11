@@ -1,0 +1,21 @@
+state= {
+	id=9713
+	name="STATE_9713"
+	manpower = 31590	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10669 }
+	
+	history = {
+		owner = MON
+	
+		add_core_of = MON
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

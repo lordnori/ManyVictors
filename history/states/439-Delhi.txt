@@ -1,0 +1,23 @@
+state= {
+	id=439
+	name="STATE_439"
+	manpower = 11391512	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 2086 }
+	
+	history = {
+		owner = RAJ
+	
+	
+		victory_points = {2086 15}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			industrial_complex = 1
+		
+		}
+	}
+}

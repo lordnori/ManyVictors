@@ -1,0 +1,21 @@
+state= {
+	id=3035
+	name="STATE_3035"
+	manpower = 1709
+	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 10777 18736 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SOM
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

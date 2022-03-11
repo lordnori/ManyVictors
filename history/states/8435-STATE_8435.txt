@@ -1,0 +1,21 @@
+state= {
+	id=8435
+	name="STATE_8435"
+	manpower = 34113	
+	state_category = wasteland
+	
+	local_supplies = 0.4
+	provinces = { 12509 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = ALT
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

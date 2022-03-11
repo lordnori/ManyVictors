@@ -1,0 +1,23 @@
+state= {
+	id=455
+	name="STATE_455"
+	manpower = 119487	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7151 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = JOR
+	
+		victory_points = {7151 1}
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		
+		}
+	}
+}

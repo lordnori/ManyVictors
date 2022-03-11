@@ -1,0 +1,22 @@
+state= {
+	id=444
+	name="STATE_444"
+	manpower = 48789	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 8066 }
+	
+	history = {
+		owner = RAJ
+	
+		add_core_of = PAK
+	
+		victory_points = {8066 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

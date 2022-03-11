@@ -1,0 +1,20 @@
+state= {
+	id=9486
+	name="STATE_9486"
+	manpower = 170810	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 454 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

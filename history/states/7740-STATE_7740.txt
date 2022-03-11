@@ -1,0 +1,22 @@
+state= {
+	id=7740
+	name="STATE_7740"
+	manpower = 1205440
+	
+	state_category = town
+	
+	local_supplies = 0.1
+	provinces = { 1084 16598 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

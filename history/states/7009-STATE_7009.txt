@@ -1,0 +1,20 @@
+state= {
+	id=7009
+	name="STATE_7009"
+	manpower = 170505	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10739 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SUD
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

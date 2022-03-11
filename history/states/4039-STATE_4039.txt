@@ -1,0 +1,21 @@
+state= {
+	id=4039
+	name="STATE_4039"
+	manpower = 54269
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 789 15942 15943 }
+	
+	history = {
+		owner = TUR
+	
+		add_core_of = TUR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

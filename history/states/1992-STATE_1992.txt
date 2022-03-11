@@ -1,0 +1,22 @@
+state= {
+	id=1992
+	name="STATE_1992"
+	manpower = 169347
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 3928 15437 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = OCC
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

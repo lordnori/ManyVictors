@@ -1,0 +1,30 @@
+state= {
+	id=829 
+	name="STATE_829 "
+	manpower = 66271	
+	state_category = rural
+	
+	local_supplies = 1.5
+	provinces = { 11523 }
+	
+
+	
+	resources= { 
+		steel = 14 
+		tungsten = 6 
+		}
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = VGE
+	
+		victory_points = {11523 2}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

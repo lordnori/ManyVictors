@@ -1,0 +1,21 @@
+state= {
+	id=3413
+	name="STATE_3413"
+	manpower = 202936
+	
+	state_category = large_city
+	
+	local_supplies = 0.7
+	provinces = { 11606 14418 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

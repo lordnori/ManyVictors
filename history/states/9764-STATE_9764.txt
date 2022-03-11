@@ -1,0 +1,21 @@
+state= {
+	id=9764
+	name="STATE_9764"
+	manpower = 1373	
+	state_category = pastoral
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10536 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = YAM
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

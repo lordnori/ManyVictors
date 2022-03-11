@@ -1,0 +1,23 @@
+state= {
+	id=8156
+	name="STATE_8156"
+	manpower = 7687	
+	state_category = pastoral
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 12880 }
+	
+	history = {
+		owner = SHX
+	
+		add_core_of = SHX
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

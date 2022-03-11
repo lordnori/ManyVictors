@@ -1,0 +1,22 @@
+state= {
+	id=7820
+	name="STATE_7820"
+	manpower = 273201	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 425 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+	
+		victory_points = {425 3}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

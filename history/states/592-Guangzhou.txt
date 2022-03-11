@@ -1,0 +1,41 @@
+state= {
+	id=592
+	name="STATE_592"
+	manpower = 6859692
+	
+	state_category = city
+	
+	local_supplies = 0.6
+	provinces = { 1047 18165 18166 18167 }
+	
+
+	
+	resources= { 
+		tungsten=8 
+		steel= 15 
+		chromium = 3 
+		}
+	
+	history = {
+		owner = GXC
+	
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		victory_points = {1047 5}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 2
+			industrial_complex = 2
+		
+		1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+}

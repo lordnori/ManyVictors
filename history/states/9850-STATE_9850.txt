@@ -1,0 +1,25 @@
+state= {
+	id=9850
+	name="STATE_9850"
+	manpower = 247823
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 11232 14080 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+	
+		buildings = {
+			infrastructure = 3
+		
+		11232 = {
+				bunker = 1
+
+			}
+		}
+	}
+}

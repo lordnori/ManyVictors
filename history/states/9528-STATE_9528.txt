@@ -1,0 +1,21 @@
+state= {
+	id=9528
+	name="STATE_9528"
+	manpower = 187093
+	
+	state_category = rural
+	
+	local_supplies = 0.4
+	provinces = { 11652 15108 }
+	
+	history = {
+		owner = ROM
+	
+		add_core_of = ROM
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

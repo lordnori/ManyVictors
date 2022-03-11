@@ -1,0 +1,22 @@
+state= {
+	id=9148
+	name="STATE_9148"
+	manpower = 140558
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 895 16009 }
+	
+	history = {
+		owner = GRE
+	
+		add_core_of = GRE
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

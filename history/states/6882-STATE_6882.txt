@@ -1,0 +1,20 @@
+state= {
+	id=6882
+	name="STATE_6882"
+	manpower = 153997	
+	state_category = wasteland
+	
+	local_supplies = 0.1
+	provinces = { 8016 }
+	
+	history = {
+		owner = BEL
+	
+		add_core_of = COG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

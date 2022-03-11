@@ -1,0 +1,21 @@
+state= {
+	id=6979
+	name="STATE_6979"
+	manpower = 392518	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12944 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = TZN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

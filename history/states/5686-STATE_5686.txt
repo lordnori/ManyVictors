@@ -1,0 +1,20 @@
+state= {
+	id=5686
+	name="STATE_5686"
+	manpower = 73184	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 1179 }
+	
+	history = {
+		owner = RAJ
+	
+		add_core_of = PAK
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=3095
+	name="STATE_3095"
+	manpower = 253088	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12787 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = GHA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

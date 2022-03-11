@@ -1,0 +1,20 @@
+state= {
+	id=7068
+	name="STATE_7068"
+	manpower = 184000	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 1108 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = LEB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

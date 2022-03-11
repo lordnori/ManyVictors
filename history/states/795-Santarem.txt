@@ -1,0 +1,31 @@
+state= {
+	id=795
+	name="STATE_795"
+	manpower = 115217
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 924 16196 }
+	
+
+	
+	resources= { 
+		chromium=20.000 
+		}
+	
+	history = {
+		owner = POR
+	
+		add_core_of = POR
+	
+		victory_points = {924 1}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=8285
+	name="STATE_8285"
+	manpower = 230	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 7393 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = FIJ
+	
+		buildings = {
+			infrastructure = 3
+		
+		7393 = {
+				naval_base = 1
+			}
+		}
+	}
+}

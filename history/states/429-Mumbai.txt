@@ -1,0 +1,32 @@
+state= {
+	id=429
+	name="STATE_429"
+	manpower = 5259272	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 1349 }
+	
+
+	
+	resources= { 
+		
+		}
+	
+	history = {
+		owner = RAJ
+	
+	
+		victory_points = {1349 10}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			industrial_complex = 1
+		
+		1349 = {
+				naval_base = 6
+			}
+		}
+	}
+}

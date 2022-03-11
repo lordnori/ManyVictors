@@ -1,0 +1,20 @@
+state= {
+	id=8457
+	name="STATE_8457"
+	manpower = 34040	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 8108 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = UAE
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

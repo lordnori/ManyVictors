@@ -1,0 +1,22 @@
+state= {
+	id=6702
+	name="STATE_6702"
+	manpower = 590469
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 1091 18144 }
+	
+	history = {
+		owner = JAP
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

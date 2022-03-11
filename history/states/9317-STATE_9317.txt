@@ -1,0 +1,23 @@
+state= {
+	id=9317
+	name="STATE_9317"
+	manpower = 59405
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 12837 17499 17500 17501 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

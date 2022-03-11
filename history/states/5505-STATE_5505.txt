@@ -1,0 +1,23 @@
+state= {
+	id=5505
+	name="STATE_5505"
+	manpower = 991420	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9993 }
+	
+	history = {
+		owner = RAJ
+	
+		add_core_of = BAN
+		add_core_of = PAK
+		add_core_of = RAJ
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

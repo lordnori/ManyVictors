@@ -1,0 +1,23 @@
+state= {
+	id=8077
+	name="STATE_8077"
+	manpower = 351545
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12432 16075 16076 16077 }
+	
+	history = {
+		owner = SHX
+	
+		add_core_of = SHX
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

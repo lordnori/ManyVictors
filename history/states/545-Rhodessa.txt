@@ -1,0 +1,23 @@
+state= {
+	id=545
+	name="STATE_545"
+	manpower = 180205	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.6
+	provinces = { 10929 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ZIM
+	
+		victory_points = {10929 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

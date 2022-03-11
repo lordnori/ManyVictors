@@ -1,0 +1,32 @@
+state= {
+	id=723
+	name="STATE_723"
+	manpower = 117256	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 2197 }
+	
+
+	
+	resources= { 
+		tungsten=4 
+		}
+	
+	history = {
+		owner = NZL
+	
+		add_core_of = NZL
+	
+		victory_points = {2197 1}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+		
+		2197 = {
+				naval_base = 1
+			}
+		}
+	}
+}

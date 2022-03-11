@@ -1,0 +1,23 @@
+state= {
+	id=3304
+	name="STATE_3304"
+	manpower = 9272	
+	state_category = wasteland
+	impassable = yes
+	
+	local_supplies = 0.0
+	provinces = { 12864 }
+	
+	history = {
+		owner = SIK
+	
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=7971
+	name="STATE_7971"
+	manpower = 474074
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 11822 16117 16118 }
+	
+	history = {
+		owner = JAP
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

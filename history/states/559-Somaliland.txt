@@ -1,0 +1,27 @@
+state= {
+	id=559
+	name="STATE_559"
+	manpower = 186319
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12991 18835 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = SOM
+	
+		victory_points = {12991 3}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		
+		12991 = {
+				naval_base = 2
+			}
+		}
+	}
+}

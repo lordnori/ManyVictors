@@ -1,0 +1,20 @@
+state= {
+	id=4520
+	name="STATE_4520"
+	manpower = 711	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7756 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

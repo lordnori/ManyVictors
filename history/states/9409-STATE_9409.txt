@@ -1,0 +1,22 @@
+state= {
+	id=9409
+	name="STATE_9409"
+	manpower = 195193	
+	state_category = rural
+	
+	local_supplies = 0.7
+	provinces = { 6643 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SER
+		add_core_of = TRA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

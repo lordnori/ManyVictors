@@ -1,0 +1,21 @@
+state= {
+	id=8357
+	name="STATE_8357"
+	manpower = 4331	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 13024 }
+	
+	history = {
+		owner = JAP
+	
+		add_core_of = JAP
+		add_core_of = GUM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=3595
+	name="STATE_3595"
+	manpower = 777512	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 13085 }
+	
+	history = {
+		owner = GUA
+	
+		add_core_of = GUA
+	
+		buildings = {
+			infrastructure = 3
+		
+		13085 = {
+				naval_base = 1
+			}
+		}
+	}
+}

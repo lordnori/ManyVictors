@@ -1,0 +1,21 @@
+state= {
+	id=9977
+	name="STATE_9977"
+	manpower = 150501
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 11251 13892 }
+	
+	history = {
+		owner = DEN
+	
+		add_core_of = DEN
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

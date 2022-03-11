@@ -1,0 +1,22 @@
+state= {
+	id=3140
+	name="STATE_3140"
+	manpower = 380489	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 2008 }
+	
+	history = {
+		owner = MEX
+	
+		add_core_of = MEX
+	
+		victory_points = {2008 10}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

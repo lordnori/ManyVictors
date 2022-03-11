@@ -1,0 +1,20 @@
+state= {
+	id=3611
+	name="STATE_3611"
+	manpower = 595000	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 1594 }
+	
+	history = {
+		owner = HAI
+	
+		add_core_of = HAI
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=1046
+	name="STATE_1046"
+	manpower = 8576
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 3178 13769 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SCO
+		add_core_of = ENG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

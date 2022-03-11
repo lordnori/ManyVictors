@@ -1,0 +1,19 @@
+state= {
+	id=5395
+	name="STATE_5395"
+	manpower = 911059	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12779 }
+	
+	history = {
+		owner = RAJ
+	
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=7523
+	name="STATE_7523"
+	manpower = 224447	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.8
+	provinces = { 7491 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = TMS
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=8231
+	name="STATE_8231"
+	manpower = 36833	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 7195 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = HAW
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

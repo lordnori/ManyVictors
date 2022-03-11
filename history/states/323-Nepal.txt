@@ -1,0 +1,30 @@
+state= {
+	id=323
+	name="STATE_323"
+	manpower = 796255	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 4987 }
+	
+
+	
+	resources= { 
+		chromium=2 
+		}
+	
+	history = {
+		owner = NEP
+	
+		add_core_of = NEP
+	
+		victory_points = {4987 3}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

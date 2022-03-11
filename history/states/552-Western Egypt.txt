@@ -1,0 +1,21 @@
+state= {
+	id=552
+	name="STATE_552"
+	manpower = 1853	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 1143 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = EGY
+	
+		buildings = {
+			infrastructure = 0
+		
+		}
+	}
+}

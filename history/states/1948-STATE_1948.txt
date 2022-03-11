@@ -1,0 +1,22 @@
+state= {
+	id=1948
+	name="STATE_1948"
+	manpower = 63734
+	
+	state_category = large_town
+	
+	local_supplies = 0.1
+	provinces = { 294 13953 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = BLR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

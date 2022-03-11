@@ -1,0 +1,21 @@
+state= {
+	id=8643
+	name="STATE_8643"
+	manpower = 39466
+	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 1520 18467 18468 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = LAO
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

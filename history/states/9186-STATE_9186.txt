@@ -1,0 +1,24 @@
+state= {
+	id=9186
+	name="STATE_9186"
+	manpower = 50626	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 11595 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = ITA
+		add_core_of = YUG
+		add_core_of = SLV
+		add_core_of = CRO
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

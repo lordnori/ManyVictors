@@ -1,0 +1,22 @@
+state= {
+	id=8279
+	name="STATE_8279"
+	manpower = 2872	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1
+	local_supplies = 0.0
+	provinces = { 1863 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = FER
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

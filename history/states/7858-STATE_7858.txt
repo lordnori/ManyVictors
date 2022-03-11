@@ -1,0 +1,24 @@
+state= {
+	id=7858
+	name="STATE_7858"
+	manpower = 87666
+	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 8041 17541 17542 17543 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = TIB
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=3295
+	name="STATE_3295"
+	manpower = 175810
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12133 18767 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = VIN
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

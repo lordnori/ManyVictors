@@ -1,0 +1,22 @@
+state= {
+	id=9233
+	name="STATE_9233"
+	manpower = 158939
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12447 18625 18626 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = CAM
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

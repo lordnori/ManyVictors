@@ -1,0 +1,20 @@
+state= {
+	id=8718
+	name="STATE_8718"
+	manpower = 119636	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 4320 }
+	
+	history = {
+		owner = INS
+	
+		add_core_of = INS
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=6197
+	name="STATE_6197"
+	manpower = 50251	
+	state_category = pastoral
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10960 }
+	
+	history = {
+		owner = BRA
+	
+		add_core_of = BRA
+	
+		buildings = {
+			infrastructure = 0
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=8291
+	name="STATE_8291"
+	manpower = 279424
+	
+	state_category = metropolis
+	
+	buildings_max_level_factor = 1
+	local_supplies = 0.0
+	provinces = { 3499 14162 14163 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=8214
+	name="STATE_8214"
+	manpower = 37412	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10328 }
+	
+	history = {
+		owner = PHI
+	
+		add_core_of = PHI
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

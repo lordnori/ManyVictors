@@ -1,0 +1,23 @@
+state= {
+	id=3679
+	name="STATE_3679"
+	manpower = 188406
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 9782 15118 }
+	
+	history = {
+		owner = MAN
+	
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

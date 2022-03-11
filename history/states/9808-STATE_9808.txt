@@ -1,0 +1,24 @@
+state= {
+	id=9808
+	name="STATE_9808"
+	manpower = 64339	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 10395 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = UZB
+		add_core_of = KKP
+		add_core_of = KHI
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

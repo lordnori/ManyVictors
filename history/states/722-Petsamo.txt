@@ -1,0 +1,21 @@
+state= {
+	id=722
+	name="STATE_722"
+	manpower = 134
+	
+	state_category = enclave
+	
+	local_supplies = 0.0
+	provinces = { 6012 13254 }
+	
+	history = {
+		owner = FIN
+	
+		add_core_of = FIN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

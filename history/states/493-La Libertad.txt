@@ -1,0 +1,33 @@
+state= {
+	id=493
+	name="STATE_493"
+	manpower = 834132	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 12790 }
+	
+
+	
+	resources= { 
+		oil=15 
+		}
+	
+	history = {
+		owner = COL
+	
+		add_core_of = COL
+	
+		victory_points = {12790 5}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			industrial_complex = 2
+		
+		12790 = {
+				naval_base = 5
+			}
+		}
+	}
+}

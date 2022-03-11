@@ -1,0 +1,20 @@
+state= {
+	id=3751
+	name="STATE_3751"
+	manpower = 24378	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10269 }
+	
+	history = {
+		owner = MAL
+	
+		add_core_of = MAL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

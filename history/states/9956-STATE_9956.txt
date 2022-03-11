@@ -1,0 +1,24 @@
+state= {
+	id=9956
+	name="STATE_9956"
+	manpower = 165314
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.9
+	provinces = { 3254 13985 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+	
+		victory_points = {3254 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

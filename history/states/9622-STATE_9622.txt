@@ -1,0 +1,22 @@
+state= {
+	id=9622
+	name="STATE_9622"
+	manpower = 82311
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 6347 14063 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = KSH
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=8461
+	name="STATE_8461"
+	manpower = 483346	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 8000 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = YEM
+	
+		buildings = {
+			infrastructure = 3
+		
+		8000 = {
+				naval_base = 1
+			}
+		}
+	}
+}

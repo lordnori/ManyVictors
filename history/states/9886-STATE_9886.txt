@@ -1,0 +1,21 @@
+state= {
+	id=9886
+	name="STATE_9886"
+	manpower = 280787
+	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 9429 14429 }
+	
+	history = {
+		owner = CZE
+	
+		add_core_of = CZE
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

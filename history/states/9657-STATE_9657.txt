@@ -1,0 +1,22 @@
+state= {
+	id=9657
+	name="STATE_9657"
+	manpower = 73246
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 6407 13917 }
+	
+	history = {
+		owner = LIT
+	
+		add_core_of = LIT
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

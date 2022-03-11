@@ -1,0 +1,21 @@
+state= {
+	id=9699
+	name="STATE_9699"
+	manpower = 463	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 12539 }
+	
+	history = {
+		owner = MON
+	
+		add_core_of = MON
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

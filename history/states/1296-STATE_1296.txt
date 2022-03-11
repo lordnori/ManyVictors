@@ -1,0 +1,21 @@
+state= {
+	id=1296
+	name="STATE_1296"
+	manpower = 9389
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 3016 13241 }
+	
+	history = {
+		owner = NOR
+	
+		add_core_of = NOR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

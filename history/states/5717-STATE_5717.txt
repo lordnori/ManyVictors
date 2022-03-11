@@ -1,0 +1,21 @@
+state= {
+	id=5717
+	name="STATE_5717"
+	manpower = 384003
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 10073 17548 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = EGY
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

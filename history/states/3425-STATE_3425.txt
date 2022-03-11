@@ -1,0 +1,23 @@
+state= {
+	id=3425
+	name="STATE_3425"
+	manpower = 160746
+	
+	state_category = town
+	
+	local_supplies = 0.5
+	provinces = { 8001 17425 }
+	
+	history = {
+		owner = IRQ
+	
+		add_core_of = IRQ
+	
+		victory_points = {8001 3}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

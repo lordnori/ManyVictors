@@ -1,0 +1,21 @@
+state= {
+	id=9453
+	name="STATE_9453"
+	manpower = 220269	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 13212 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = TOG
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,34 @@
+state= {
+	id=447
+	name="STATE_447"
+	manpower = 1920019
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 4076 17514 17515 17516 }
+	
+
+	
+	resources= { 
+		oil=1 
+		}
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = EGY
+	
+		victory_points = {4076 10}
+		
+		buildings = {
+			infrastructure = 5
+			air_base = 6
+			industrial_complex = 1
+		
+		4076 = {
+				naval_base = 8
+			}
+		}
+	}
+}

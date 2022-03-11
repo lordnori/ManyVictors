@@ -1,0 +1,23 @@
+state= {
+	id=4034
+	name="STATE_4034"
+	manpower = 65442
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.2
+	provinces = { 9860 16361 16362 }
+	
+	history = {
+		owner = TUR
+	
+	
+		victory_points = {9860 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

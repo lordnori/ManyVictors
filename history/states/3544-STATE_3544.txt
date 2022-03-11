@@ -1,0 +1,25 @@
+state= {
+	id=3544
+	name="STATE_3544"
+	manpower = 103879	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 4611 }
+	
+	history = {
+		owner = PAN
+	
+		add_core_of = PAN
+	
+		victory_points = {4611 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		4611 = {
+				naval_base = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=5722
+	name="STATE_5722"
+	manpower = 26750
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7066 17416 17417 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = LBA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

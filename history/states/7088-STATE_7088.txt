@@ -1,0 +1,20 @@
+state= {
+	id=7088
+	name="STATE_7088"
+	manpower = 179233	
+	state_category = rural
+	
+	local_supplies = 0.1
+	provinces = { 12794 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = MLI
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

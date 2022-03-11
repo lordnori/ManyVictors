@@ -1,0 +1,26 @@
+state= {
+	id=832 
+	name="STATE_832 "
+	manpower = 33266	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 4.0
+	provinces = { 1493 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = TMS
+		add_core_of = KHI
+	
+		victory_points = {1493 1}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		
+		}
+	}
+}

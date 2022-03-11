@@ -1,0 +1,22 @@
+state= {
+	id=8637
+	name="STATE_8637"
+	manpower = 262985
+	
+	state_category = city
+	
+	local_supplies = 0.4
+	provinces = { 9457 14409 }
+	
+	history = {
+		owner = GER
+	
+		add_core_of = GER
+		add_core_of = SIL
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

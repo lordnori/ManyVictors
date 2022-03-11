@@ -1,0 +1,24 @@
+state= {
+	id=3636
+	name="STATE_3636"
+	manpower = 439780
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.1
+	provinces = { 1172 18113 18114 18115 }
+	
+	history = {
+		owner = YUN
+	
+		add_core_of = YUN
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

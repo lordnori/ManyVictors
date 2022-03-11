@@ -1,0 +1,21 @@
+state= {
+	id=3430
+	name="STATE_3430"
+	manpower = 2679
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12855 17222 }
+	
+	history = {
+		owner = IRQ
+	
+		add_core_of = IRQ
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

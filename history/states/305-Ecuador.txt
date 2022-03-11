@@ -1,0 +1,31 @@
+state= {
+	id=305
+	name="STATE_305"
+	manpower = 142857	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 12798 }
+	
+
+	
+	resources= { 
+		oil=2 
+		}
+	
+	history = {
+		owner = ECU
+	
+		add_core_of = ECU
+	
+		victory_points = {12798 5}
+		
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 4
+		
+		}
+	}
+}

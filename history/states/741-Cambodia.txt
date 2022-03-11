@@ -1,0 +1,24 @@
+state= {
+	id=741
+	name="STATE_741"
+	manpower = 238409
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7376 18723 5236 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = CAM
+	
+		victory_points = {7376 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

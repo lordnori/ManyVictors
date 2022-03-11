@@ -1,0 +1,26 @@
+state= {
+	id=1769
+	name="STATE_1769"
+	manpower = 231972
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 7193 17043 17044 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = CYP
+	
+		victory_points = {7193 3}
+		
+		buildings = {
+			infrastructure = 3
+		
+		7193 = {
+				naval_base = 2
+			}
+		}
+	}
+}

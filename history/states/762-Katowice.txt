@@ -1,0 +1,32 @@
+state= {
+	id=762
+	name="STATE_762"
+	manpower = 714285
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 6464 14447 14448 14449 }
+	
+
+	
+	resources= { 
+		steel=19 
+		aluminium=7 
+		}
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = SIL
+	
+		victory_points = {6464 5}
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=3497
+	name="STATE_3497"
+	manpower = 147445	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 9638 }
+	
+	history = {
+		owner = SWI
+	
+		add_core_of = SWI
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

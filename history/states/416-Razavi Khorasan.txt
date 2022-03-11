@@ -1,0 +1,24 @@
+state= {
+	id=416
+	name="STATE_416"
+	manpower = 8615
+	
+	state_category = rural
+	
+	local_supplies = 0.7
+	provinces = { 5029 16746 }
+	
+	history = {
+		owner = PER
+	
+		add_core_of = PER
+	
+		victory_points = {5029 1}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

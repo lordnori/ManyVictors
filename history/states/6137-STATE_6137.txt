@@ -1,0 +1,20 @@
+state= {
+	id=6137
+	name="STATE_6137"
+	manpower = 37166	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 12973 }
+	
+	history = {
+		owner = BOL
+	
+		add_core_of = BOL
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

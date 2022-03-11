@@ -1,0 +1,30 @@
+state= {
+	id=324
+	name="STATE_324"
+	manpower = 225000	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 8010 }
+	
+
+	
+	resources= { 
+		tungsten=2 
+		}
+	
+	history = {
+		owner = BHU
+	
+		add_core_of = BHU
+	
+		victory_points = {8010 3}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

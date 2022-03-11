@@ -1,0 +1,24 @@
+state= {
+	id=8154
+	name="STATE_8154"
+	manpower = 307514
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.8
+	provinces = { 12403 15769 15770 }
+	
+	history = {
+		owner = SHX
+	
+		add_core_of = SHX
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

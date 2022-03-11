@@ -1,0 +1,23 @@
+state= {
+	id=516
+	name="STATE_516"
+	manpower = 1607	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 4859 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = TAY
+	
+		victory_points = {4859 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

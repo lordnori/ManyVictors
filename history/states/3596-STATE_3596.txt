@@ -1,0 +1,20 @@
+state= {
+	id=3596
+	name="STATE_3596"
+	manpower = 479203	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 13093 }
+	
+	history = {
+		owner = ELS
+	
+		add_core_of = ELS
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=1513
+	name="STATE_1513"
+	manpower = 112697
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 11627 14858 14859 }
+	
+	history = {
+		owner = HUN
+	
+		add_core_of = HUN
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

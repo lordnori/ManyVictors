@@ -1,0 +1,23 @@
+state= {
+	id=6153
+	name="STATE_6153"
+	manpower = 42646
+	
+	state_category = town
+	
+	local_supplies = 0.3
+	provinces = { 3951 16065 16066 }
+	
+	history = {
+		owner = TUR
+	
+		add_core_of = TUR
+	
+		victory_points = {3951 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

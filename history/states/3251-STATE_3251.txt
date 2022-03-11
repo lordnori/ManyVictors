@@ -1,0 +1,27 @@
+state= {
+	id=3251
+	name="STATE_3251"
+	manpower = 155287	
+	state_category = large_city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7520 }
+	
+	history = {
+		owner = AST
+	
+		add_core_of = AST
+	
+		victory_points = {7520 1}
+		
+		buildings = {
+			infrastructure = 4
+		
+		7520 = {
+				coastal_bunker = 1
+
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=898
+	name="STATE_898"
+	manpower = 85274
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 3956 15379 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SER
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

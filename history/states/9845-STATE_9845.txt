@@ -1,0 +1,20 @@
+state= {
+	id=9845
+	name="STATE_9845"
+	manpower = 123911	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 388 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

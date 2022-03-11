@@ -1,0 +1,21 @@
+state= {
+	id=9355
+	name="STATE_9355"
+	manpower = 444444	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 4900 }
+	
+	history = {
+		owner = TIB
+	
+		add_core_of = TIB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state= {
+	id=796
+	name="STATE_796"
+	manpower = 25000	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 2115 }
+	
+	history = {
+		owner = POR
+	
+		add_core_of = ANG
+	
+		victory_points = {2115 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		2115 = {
+				naval_base = 1
+			}
+		}
+	}
+}

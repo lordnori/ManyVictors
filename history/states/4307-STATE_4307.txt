@@ -1,0 +1,21 @@
+state= {
+	id=4307
+	name="STATE_4307"
+	manpower = 113006
+	
+	state_category = large_city
+	
+	local_supplies = 0.7
+	provinces = { 3260 13864 }
+	
+	history = {
+		owner = DEN
+	
+		add_core_of = DEN
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

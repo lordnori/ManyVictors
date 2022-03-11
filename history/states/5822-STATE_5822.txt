@@ -1,0 +1,20 @@
+state= {
+	id=5822
+	name="STATE_5822"
+	manpower = 261122	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 11939 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = ALG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

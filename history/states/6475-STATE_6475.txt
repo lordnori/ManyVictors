@@ -1,0 +1,22 @@
+state= {
+	id=6475
+	name="STATE_6475"
+	manpower = 5944	
+	state_category = pastoral
+	
+	impassable = yes
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7939 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = NGR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

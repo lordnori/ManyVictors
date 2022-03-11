@@ -1,0 +1,21 @@
+state= {
+	id=3397
+	name="STATE_3397"
+	manpower = 274023
+	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 12195 18587 }
+	
+	history = {
+		owner = SIA
+	
+		add_core_of = SIA
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

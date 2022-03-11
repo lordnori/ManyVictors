@@ -1,0 +1,21 @@
+state= {
+	id=6156
+	name="STATE_6156"
+	manpower = 63969
+	
+	state_category = town
+	
+	local_supplies = 0.4
+	provinces = { 6925 16205 }
+	
+	history = {
+		owner = TUR
+	
+		add_core_of = TUR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

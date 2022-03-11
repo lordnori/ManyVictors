@@ -1,0 +1,35 @@
+state= {
+	id=473
+	name="STATE_473"
+	manpower = 153159	
+	state_category = town
+	
+	local_supplies = 1.8
+	provinces = { 1408 }
+	
+
+	
+	resources= { 
+		oil=1 
+		}
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		victory_points = {1408 15}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+		
+		1408 = {
+				naval_base = 5
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=8702
+	name="STATE_8702"
+	manpower = 128088
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12319 18232 18233 18234 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = VIN
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

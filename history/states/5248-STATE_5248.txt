@@ -1,0 +1,23 @@
+state= {
+	id=5248
+	name="STATE_5248"
+	manpower = 105879	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 858 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = SPR
+	
+		victory_points = {858 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=6892
+	name="STATE_6892"
+	manpower = 58536	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 13210 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = GAB
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

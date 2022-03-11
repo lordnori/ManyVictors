@@ -1,0 +1,24 @@
+state= {
+	id=8158
+	name="STATE_8158"
+	manpower = 332836
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 1458 16575 16576 16577 }
+	
+	history = {
+		owner = PRC
+	
+		add_core_of = PRC
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

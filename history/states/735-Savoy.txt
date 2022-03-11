@@ -1,0 +1,28 @@
+state= {
+	id=735
+	name="STATE_735"
+	manpower = 523557
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9909 15383 15384 15385 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = OCC
+		add_core_of = FRA
+	
+		victory_points = {9909 5}
+		
+		buildings = {
+			infrastructure = 4
+		
+		9909 = {
+				naval_base = 2
+			}
+		}
+	}
+}

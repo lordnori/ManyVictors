@@ -1,0 +1,25 @@
+state= {
+	id=1318
+	name="STATE_1318"
+	manpower = 28169	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 9116 }
+	
+	history = {
+		owner = NOR
+	
+		add_core_of = NOR
+	
+		victory_points = {9116 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		9116 = {
+				naval_base = 3
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state= {
+	id=6957
+	name="STATE_6957"
+	manpower = 158653	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12950 }
+	
+	history = {
+		owner = POR
+	
+		add_core_of = MZB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

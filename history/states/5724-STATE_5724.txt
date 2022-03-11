@@ -1,0 +1,21 @@
+state= {
+	id=5724
+	name="STATE_5724"
+	manpower = 60188
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 9980 17374 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = LBA
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

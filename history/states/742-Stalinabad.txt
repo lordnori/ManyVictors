@@ -1,0 +1,25 @@
+state= {
+	id=742
+	name="STATE_742"
+	manpower = 17692	
+	state_category = wasteland
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 1384 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = TAJ
+		add_core_of = BUK
+	
+		victory_points = {1384 1}
+		
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=1123
+	name="STATE_1123"
+	manpower = 515219
+	
+	state_category = metropolis
+	
+	local_supplies = 0.0
+	provinces = { 6318 14030 14031 14032 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ENG
+	
+		victory_points = {6318 5}
+		
+		buildings = {
+			infrastructure = 5
+		
+		}
+	}
+}

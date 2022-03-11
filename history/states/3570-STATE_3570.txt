@@ -1,0 +1,23 @@
+state= {
+	id=3570
+	name="STATE_3570"
+	manpower = 12839	
+	state_category = tiny_island
+	
+	local_supplies = 0.0
+	provinces = { 7123 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = BAS
+	
+		buildings = {
+			infrastructure = 3
+		
+		7123 = {
+				naval_base = 1
+			}
+		}
+	}
+}

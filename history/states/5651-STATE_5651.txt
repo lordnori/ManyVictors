@@ -1,0 +1,25 @@
+state= {
+	id=5651
+	name="STATE_5651"
+	manpower = 170953	
+	state_category = town
+	
+	local_supplies = 1.2
+	provinces = { 11767 }
+	
+	history = {
+		owner = ALB
+	
+		add_core_of = ALB
+	
+		victory_points = {11767 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		11767 = {
+				naval_base = 4
+			}
+		}
+	}
+}

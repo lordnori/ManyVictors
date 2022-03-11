@@ -1,0 +1,20 @@
+state= {
+	id=5529
+	name="STATE_5529"
+	manpower = 329440	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12338 }
+	
+	history = {
+		owner = RAJ
+	
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

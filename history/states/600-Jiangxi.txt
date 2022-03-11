@@ -1,0 +1,26 @@
+state= {
+	id=600
+	name="STATE_600"
+	manpower = 1492490
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.9
+	provinces = { 3992 17776 17777 17778 13141 }
+	
+	history = {
+		owner = CHI
+	
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		victory_points = {3992 3}
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		
+		}
+	}
+}

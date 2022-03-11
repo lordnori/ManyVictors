@@ -1,0 +1,33 @@
+state= {
+	id=422
+	name="STATE_422"
+	manpower = 1677966	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10201 }
+	
+
+	
+	resources= { 
+		rubber=60 
+		}
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SRL
+	
+		victory_points = {10201 3}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			industrial_complex = 1
+		
+		10201 = {
+				naval_base = 5
+			}
+		}
+	}
+}

@@ -1,0 +1,27 @@
+state= {
+	id=577
+	name="STATE_577"
+	manpower = 623	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 1726 }
+	
+
+	
+	resources= { 
+		oil=13 
+		}
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = OVO
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state= {
+	id=372
+	name="STATE_372"
+	manpower = 109087	
+	state_category = town
+	
+	local_supplies = 0.7
+	provinces = { 12489 }
+	
+
+	
+	resources= { 
+		aluminium=14 
+		}
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		victory_points = {12489 1}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state= {
+	id=848
+	name="STATE_848"
+	manpower = 6750	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 12512 }
+	
+	history = {
+		owner = DEN
+	
+		add_core_of = DEN
+	
+		buildings = {
+			infrastructure = 2
+		
+		12512 = {
+				naval_base = 1
+			}
+		}
+	}
+}

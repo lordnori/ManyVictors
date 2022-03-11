@@ -1,0 +1,24 @@
+state= {
+	id=8097
+	name="STATE_8097"
+	manpower = 118087
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.4
+	provinces = { 12526 15501 15502 15503 }
+	
+	history = {
+		owner = SIK
+	
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

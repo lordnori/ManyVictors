@@ -1,0 +1,19 @@
+state= {
+	id=721
+	name="STATE_721"
+	manpower = 56950	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 1326 }
+	
+	history = {
+		owner = POR
+	
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

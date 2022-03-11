@@ -1,0 +1,21 @@
+state= {
+	id=1220
+	name="STATE_1220"
+	manpower = 62072
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 11070 13719 }
+	
+	history = {
+		owner = SWE
+	
+		add_core_of = SWE
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

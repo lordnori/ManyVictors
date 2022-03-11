@@ -1,0 +1,24 @@
+state= {
+	id=8958
+	name="STATE_8958"
+	manpower = 381759
+	
+	state_category = metropolis
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 3211 14191 14192 14193 }
+	
+	history = {
+		owner = HOL
+	
+		add_core_of = HOL
+	
+		victory_points = {3211 10}
+		
+		buildings = {
+			infrastructure = 5
+		
+		}
+	}
+}

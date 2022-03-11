@@ -1,0 +1,20 @@
+state= {
+	id=6417
+	name="STATE_6417"
+	manpower = 5292	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 11022 }
+	
+	history = {
+		owner = ARG
+	
+		add_core_of = ARG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

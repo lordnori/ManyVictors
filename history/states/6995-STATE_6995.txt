@@ -1,0 +1,21 @@
+state= {
+	id=6995
+	name="STATE_6995"
+	manpower = 502232	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7088 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = UGA
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

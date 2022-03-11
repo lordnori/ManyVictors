@@ -1,0 +1,19 @@
+state= {
+	id=7075
+	name="STATE_7075"
+	manpower = 3750	
+	state_category = tiny_island
+	
+	local_supplies = 0.0
+	provinces = { 13037 }
+	
+	history = {
+		owner = JAP
+	
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

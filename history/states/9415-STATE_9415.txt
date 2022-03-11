@@ -1,0 +1,21 @@
+state= {
+	id=9415
+	name="STATE_9415"
+	manpower = 2714	
+	state_category = wasteland
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 10900 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = SUD
+	
+		buildings = {
+			infrastructure = 0
+		
+		}
+	}
+}

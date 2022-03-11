@@ -1,0 +1,24 @@
+state= {
+	id=1808
+	name="STATE_1808"
+	manpower = 45168
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 9221 13733 }
+	
+	history = {
+		owner = EST
+	
+		add_core_of = EST
+	
+		victory_points = {9221 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

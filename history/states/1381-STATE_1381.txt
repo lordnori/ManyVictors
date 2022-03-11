@@ -1,0 +1,20 @@
+state= {
+	id=1381
+	name="STATE_1381"
+	manpower = 45337	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 66 }
+	
+	history = {
+		owner = FIN
+	
+		add_core_of = FIN
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

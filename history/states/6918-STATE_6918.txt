@@ -1,0 +1,21 @@
+state= {
+	id=6918
+	name="STATE_6918"
+	manpower = 1523	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 2207 }
+	
+	history = {
+		owner = SAF
+	
+		add_core_of = SAF
+		add_core_of = NMB
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

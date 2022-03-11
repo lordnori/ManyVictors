@@ -1,0 +1,21 @@
+state= {
+	id=4139
+	name="STATE_4139"
+	manpower = 221625	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.3
+	provinces = { 9309 }
+	
+	history = {
+		owner = HOL
+	
+		add_core_of = HOL
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

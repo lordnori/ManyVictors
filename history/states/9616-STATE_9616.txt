@@ -1,0 +1,23 @@
+state= {
+	id=9616
+	name="STATE_9616"
+	manpower = 70180
+	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 11697 15476 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = NAV
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

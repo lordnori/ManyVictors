@@ -1,0 +1,22 @@
+state= {
+	id=9952
+	name="STATE_9952"
+	manpower = 96800
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 11391 13915 13916 }
+	
+	history = {
+		owner = POL
+	
+		add_core_of = POL
+		add_core_of = BLR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

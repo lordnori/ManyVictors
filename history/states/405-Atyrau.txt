@@ -1,0 +1,26 @@
+state= {
+	id=405
+	name="STATE_405"
+	manpower = 2058661	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.5
+	provinces = { 1459 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = UZB
+	
+		victory_points = {1459 3}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			industrial_complex = 2
+		
+		}
+	}
+}

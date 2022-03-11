@@ -1,0 +1,20 @@
+state= {
+	id=8622
+	name="STATE_8622"
+	manpower = 7483	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 7570 }
+	
+	history = {
+		owner = INS
+	
+		add_core_of = INS
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

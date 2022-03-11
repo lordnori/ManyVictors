@@ -1,0 +1,23 @@
+state= {
+	id=9746
+	name="STATE_9746"
+	manpower = 6409	
+	state_category = pastoral
+	
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 5264 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = CKK
+		add_core_of = FER
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state= {
+	id=875
+	name="STATE_875"
+	manpower = 123238
+	
+	state_category = town
+	
+	local_supplies = 0.9
+	provinces = { 6983 15257 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = BOS
+	
+		victory_points = {6983 3}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

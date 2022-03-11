@@ -1,0 +1,20 @@
+state= {
+	id=3633
+	name="STATE_3633"
+	manpower = 796255	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 12892 }
+	
+	history = {
+		owner = NEP
+	
+		add_core_of = NEP
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

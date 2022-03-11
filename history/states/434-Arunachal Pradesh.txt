@@ -1,0 +1,25 @@
+state= {
+	id=434
+	name="STATE_434"
+	manpower = 85714	
+	state_category = wasteland
+	
+	local_supplies = 1.5
+	provinces = { 1116 }
+	
+
+	
+	resources= { 
+		
+		}
+	
+	history = {
+		owner = RAJ
+	
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=2937
+	name="STATE_2937"
+	manpower = 201414	
+	state_category = large_city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 9760 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

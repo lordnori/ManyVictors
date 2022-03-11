@@ -1,0 +1,21 @@
+state= {
+	id=3416
+	name="STATE_3416"
+	manpower = 97043
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 10113 16949 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = MOR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

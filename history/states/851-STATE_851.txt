@@ -1,0 +1,22 @@
+state= {
+	id=851
+	name="STATE_851"
+	manpower = 134623
+	
+	state_category = town
+	
+	local_supplies = 0.5
+	provinces = { 596 14967 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SLV
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

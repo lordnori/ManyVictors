@@ -1,0 +1,24 @@
+state= {
+	id=9267
+	name="STATE_9267"
+	manpower = 90909
+	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 7976 18073 18074 18075 }
+	
+	history = {
+		owner = YUN
+	
+		add_core_of = YUN
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

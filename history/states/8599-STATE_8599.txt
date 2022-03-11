@@ -1,0 +1,20 @@
+state= {
+	id=8599
+	name="STATE_8599"
+	manpower = 40925	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 1419 }
+	
+	history = {
+		owner = INS
+	
+		add_core_of = INS
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

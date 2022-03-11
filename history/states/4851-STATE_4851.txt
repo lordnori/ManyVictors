@@ -1,0 +1,20 @@
+state= {
+	id=4851
+	name="STATE_4851"
+	manpower = 297298	
+	state_category = megalopolis
+	
+	local_supplies = 0.0
+	provinces = { 12305 }
+	
+	history = {
+		owner = USA
+	
+		add_core_of = USA
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

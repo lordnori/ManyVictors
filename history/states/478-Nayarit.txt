@@ -1,0 +1,29 @@
+state= {
+	id=478
+	name="STATE_478"
+	manpower = 235321	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 13089 }
+	
+
+	
+	resources= { 
+		tungsten=8 
+		}
+	
+	history = {
+		owner = MEX
+	
+		add_core_of = MEX
+	
+		victory_points = {13089 10}
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		
+		}
+	}
+}

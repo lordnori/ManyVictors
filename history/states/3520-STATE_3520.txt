@@ -1,0 +1,20 @@
+state= {
+	id=3520
+	name="STATE_3520"
+	manpower = 99085	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 12481 }
+	
+	history = {
+		owner = URG
+	
+		add_core_of = URG
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=1221
+	name="STATE_1221"
+	manpower = 41381	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 11114 }
+	
+	history = {
+		owner = SWE
+	
+		add_core_of = SWE
+	
+		victory_points = {11114 1}
+		
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

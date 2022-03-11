@@ -1,0 +1,22 @@
+state= {
+	id=1684
+	name="STATE_1684"
+	manpower = 67502
+	
+	state_category = large_town
+	
+	local_supplies = 0.0
+	provinces = { 11840 15622 15623 }
+	
+	history = {
+		owner = SPR
+	
+		add_core_of = GLC
+		add_core_of = SPR
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

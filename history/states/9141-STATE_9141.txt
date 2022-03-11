@@ -1,0 +1,20 @@
+state= {
+	id=9141
+	name="STATE_9141"
+	manpower = 41071	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 13080 }
+	
+	history = {
+		owner = NZL
+	
+		add_core_of = SAM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

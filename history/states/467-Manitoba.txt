@@ -1,0 +1,24 @@
+state= {
+	id=467
+	name="STATE_467"
+	manpower = 67352	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 2.0
+	provinces = { 4872 13163 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		victory_points = {4872 5}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		
+		}
+	}
+}

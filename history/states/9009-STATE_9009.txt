@@ -1,0 +1,23 @@
+state= {
+	id=9009
+	name="STATE_9009"
+	manpower = 210194
+	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 3978 15349 }
+	
+	history = {
+		owner = MAN
+	
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

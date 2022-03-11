@@ -1,0 +1,20 @@
+state= {
+	id=1040
+	name="STATE_1040"
+	manpower = 276454	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 3388 }
+	
+	history = {
+		owner = LAT
+	
+		add_core_of = LAT
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

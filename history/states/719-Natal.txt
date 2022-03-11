@@ -1,0 +1,33 @@
+state= {
+	id=719
+	name="STATE_719"
+	manpower = 660359	
+	state_category = city
+	
+	local_supplies = 0.0
+	provinces = { 1468 }
+	
+
+	
+	resources= { 
+		chromium=60 
+		}
+	
+	history = {
+		owner = SAF
+	
+		add_core_of = SAF
+	
+		victory_points = {1468 3}
+		
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			industrial_complex = 2
+		
+		1468 = {
+				naval_base = 2
+			}
+		}
+	}
+}

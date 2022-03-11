@@ -1,0 +1,21 @@
+state= {
+	id=6960
+	name="STATE_6960"
+	manpower = 270308	
+	state_category = pastoral
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.8
+	provinces = { 2151 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ZIM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

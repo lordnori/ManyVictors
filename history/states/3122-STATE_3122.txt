@@ -1,0 +1,20 @@
+state= {
+	id=3122
+	name="STATE_3122"
+	manpower = 94455	
+	state_category = large_city
+	
+	local_supplies = 0.0
+	provinces = { 6630 }
+	
+	history = {
+		owner = CAN
+	
+		add_core_of = CAN
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

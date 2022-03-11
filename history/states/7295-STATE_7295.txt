@@ -1,0 +1,20 @@
+state= {
+	id=7295
+	name="STATE_7295"
+	manpower = 126097	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 7687 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

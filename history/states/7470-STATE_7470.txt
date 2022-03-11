@@ -1,0 +1,21 @@
+state= {
+	id=7470
+	name="STATE_7470"
+	manpower = 6975	
+	state_category = pastoral
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 12502 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = KOM
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

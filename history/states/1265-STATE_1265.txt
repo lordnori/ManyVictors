@@ -1,0 +1,26 @@
+state= {
+	id=1265
+	name="STATE_1265"
+	manpower = 73412	
+	state_category = town
+	
+	local_supplies = 0.0
+	provinces = { 9296 }
+	
+	history = {
+		owner = NOR
+	
+		add_core_of = NOR
+	
+		victory_points = {9296 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+	}
+}

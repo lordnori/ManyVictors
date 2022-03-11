@@ -1,0 +1,28 @@
+state= {
+	id=754
+	name="STATE_754"
+	manpower = 49079
+	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 12732 16589 16590 16591 }
+	
+	history = {
+		owner = XSM
+	
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		victory_points = {12732 3}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		
+		}
+	}
+}

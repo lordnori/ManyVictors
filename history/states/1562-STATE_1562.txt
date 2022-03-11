@@ -1,0 +1,21 @@
+state= {
+	id=1562
+	name="STATE_1562"
+	manpower = 879812
+	
+	state_category = metropolis
+	
+	local_supplies = 0.0
+	provinces = { 9523 14597 14598 14599 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

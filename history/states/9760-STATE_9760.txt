@@ -1,0 +1,21 @@
+state= {
+	id=9760
+	name="STATE_9760"
+	manpower = 1373	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 1757 }
+	
+	history = {
+		owner = SOV
+	
+		add_core_of = SOV
+		add_core_of = YAM
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

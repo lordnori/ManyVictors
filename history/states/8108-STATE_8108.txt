@@ -1,0 +1,23 @@
+state= {
+	id=8108
+	name="STATE_8108"
+	manpower = 44131
+	
+	state_category = pastoral
+	
+	local_supplies = 0.0
+	provinces = { 7866 15163 15164 15165 }
+	
+	history = {
+		owner = SIK
+	
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state= {
+	id=3067
+	name="STATE_3067"
+	manpower = 644122
+	
+	state_category = rural
+	
+	local_supplies = 0.0
+	provinces = { 12714 18780 18781 }
+	
+	history = {
+		owner = ETH
+	
+		add_core_of = ETH
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

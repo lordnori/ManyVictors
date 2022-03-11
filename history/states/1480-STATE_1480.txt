@@ -1,0 +1,21 @@
+state= {
+	id=1480
+	name="STATE_1480"
+	manpower = 150485
+	
+	state_category = town
+	
+	local_supplies = 0.6
+	provinces = { 671 14892 }
+	
+	history = {
+		owner = AUS
+	
+		add_core_of = AUS
+	
+		buildings = {
+			infrastructure = 3
+		
+		}
+	}
+}

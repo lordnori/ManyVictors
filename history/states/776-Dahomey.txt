@@ -1,0 +1,25 @@
+state= {
+	id=776
+	name="STATE_776"
+	manpower = 810937	
+	state_category = pastoral
+	
+	local_supplies = 0.6
+	provinces = { 10919 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = DAH
+	
+		victory_points = {10919 1}
+		
+		buildings = {
+			infrastructure = 3
+		
+		10919 = {
+				naval_base = 1
+			}
+		}
+	}
+}

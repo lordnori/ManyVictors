@@ -1,0 +1,21 @@
+state= {
+	id=6443
+	name="STATE_6443"
+	manpower = 36389
+	
+	state_category = wasteland
+	
+	local_supplies = 0.0
+	provinces = { 4150 17017 17018 17019 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = ALG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

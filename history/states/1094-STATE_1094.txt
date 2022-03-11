@@ -1,0 +1,21 @@
+state= {
+	id=1094
+	name="STATE_1094"
+	manpower = 345490
+	
+	state_category = metropolis
+	
+	local_supplies = 0.0
+	provinces = { 7239 14169 }
+	
+	history = {
+		owner = ENG
+	
+		add_core_of = ENG
+	
+		buildings = {
+			infrastructure = 4
+		
+		}
+	}
+}

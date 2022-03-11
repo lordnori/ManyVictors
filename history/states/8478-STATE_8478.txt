@@ -1,0 +1,20 @@
+state= {
+	id=8478
+	name="STATE_8478"
+	manpower = 142115	
+	state_category = pastoral
+	
+	local_supplies = 0.2
+	provinces = { 5084 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = CAR
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

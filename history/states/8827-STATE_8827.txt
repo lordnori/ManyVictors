@@ -1,0 +1,20 @@
+state= {
+	id=8827
+	name="STATE_8827"
+	manpower = 5	
+	state_category = wasteland
+	impassable = yes
+	local_supplies = 0.0
+	provinces = { 5081 }
+	
+	history = {
+		owner = SAU
+	
+		add_core_of = SAU
+	
+		buildings = {
+			infrastructure = 0
+		
+		}
+	}
+}

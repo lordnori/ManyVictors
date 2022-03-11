@@ -1,0 +1,23 @@
+state= {
+	id=900
+	name="STATE_900"
+	manpower = 85274
+	
+	state_category = city
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.2
+	provinces = { 6634 15269 15270 }
+	
+	history = {
+		owner = YUG
+	
+		add_core_of = YUG
+		add_core_of = SER
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state= {
+	id=3616
+	name="STATE_3616"
+	manpower = 215892
+	
+	state_category = town
+	
+	local_supplies = 1.9
+	provinces = { 762 15154 }
+	
+	history = {
+		owner = FRA
+	
+		add_core_of = OCC
+		add_core_of = FRA
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

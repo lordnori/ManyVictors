@@ -1,0 +1,26 @@
+state= {
+	id=814
+	name="STATE_814"
+	manpower = 48831	
+	state_category = town
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 11312 }
+	
+	history = {
+		owner = LIT
+	
+		add_core_of = LIT
+	
+		victory_points = {11312 1}
+		
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			arms_factory = 1
+			industrial_complex = 1
+		
+		}
+	}
+}

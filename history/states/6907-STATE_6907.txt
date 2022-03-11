@@ -1,0 +1,21 @@
+state= {
+	id=6907
+	name="STATE_6907"
+	manpower = 145124	
+	state_category = rural
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+	provinces = { 5158 }
+	
+	history = {
+		owner = POR
+	
+		add_core_of = ANG
+	
+		buildings = {
+			infrastructure = 1
+		
+		}
+	}
+}

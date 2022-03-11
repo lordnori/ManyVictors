@@ -1,0 +1,20 @@
+state= {
+	id=8252
+	name="STATE_8252"
+	manpower = 3282	
+	state_category = small_island
+	
+	local_supplies = 0.0
+	provinces = { 13044 }
+	
+	history = {
+		owner = JAP
+	
+		add_core_of = FSM
+	
+		buildings = {
+			infrastructure = 2
+		
+		}
+	}
+}

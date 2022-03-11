@@ -1,0 +1,27 @@
+state= {
+	id=451
+	name="STATE_451"
+	manpower = 9035
+	
+	state_category = wasteland
+	
+	local_supplies = 2.1
+	provinces = { 1130 17407 17408 }
+	
+	history = {
+		owner = ITA
+	
+		add_core_of = LBA
+	
+		victory_points = {1130 5}
+		
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+		
+		1130 = {
+				naval_base = 6
+			}
+		}
+	}
+}
