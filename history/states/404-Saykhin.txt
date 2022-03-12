@@ -1,7 +1,8 @@
 state= {
 	id=404
 	name="STATE_404"
-	manpower = 3768	
+	manpower = 3768
+	
 	state_category = wasteland
 	
 	buildings_max_level_factor = 1.000
@@ -9,10 +10,9 @@ state= {
 	provinces = { 7597 }
 	
 	history = {
-		owner = SOV
+		owner = SYK
 	
-		add_core_of = KAZ
-		add_core_of = SOV
+		add_core_of = SYK
 	
 		victory_points = {7597 1}
 		

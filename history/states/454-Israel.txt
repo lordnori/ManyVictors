@@ -9,8 +9,9 @@ state= {
 	provinces = { 1065 17302 1 }
 	
 	history = {
-		owner = ENG
+		owner = TUR
 	
+		add_core_of = TUR
 		add_core_of = PAL
 		add_core_of = ISR
 	

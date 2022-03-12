@@ -9,7 +9,7 @@ state= {
 	provinces = { 4161 17518 }
 	
 	history = {
-		owner = ENG
+		owner = EGY
 	
 		add_core_of = EGY
 	

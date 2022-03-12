@@ -9,7 +9,7 @@ state= {
 	provinces = { 4108 17452 17453 17454 }
 	
 	history = {
-		owner = FRA
+		owner = MOR
 	
 		add_core_of = MOR
 	
