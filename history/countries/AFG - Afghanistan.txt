@@ -126,14 +126,23 @@ set_popularities = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = authoritarian 
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		fascism = 20
-		communism = 10
-		neutrality = 70
+	anarchist = 0
+	centrist = 0
+	authoritarian = 50
+	conservative = 0
+	liberal = 0
+	monarchy = 0
+	volkism = 0
+	palingenicism = 0
+	populism = 0
+	social_democracy = 0
+	theocracy = 30
+	radical_socialism = 20
 	}
 }
