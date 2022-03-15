@@ -28,8 +28,6 @@ state={
 			}
 		}
 		add_core_of = ALB
-
-		}
 	}
 
 	provinces={
