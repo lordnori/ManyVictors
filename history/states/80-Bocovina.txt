@@ -10,13 +10,15 @@ state={
 		victory_points = {
 			577 1 
 		}
-		owner = ROM
+		owner = UKR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
+		add_core_of = UKR
 		add_core_of = ROM
-		add_claim_by = UKR
+		add_claim_by = HUN
+		add_claim_by = AUS
 	}
 	provinces={
 		577 9548

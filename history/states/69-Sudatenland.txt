@@ -56,11 +56,8 @@ state=
 
 		}
 		add_core_of = CZE
+		add_claim_by = AUS
 
-		1938.9.30 = {
-			owner = GER
-			controller = GER
-		}
 	}
 	provinces=
 	{
