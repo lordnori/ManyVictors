@@ -8,15 +8,16 @@ state=
 	
 	history =
 	{
-		owner = YUG
+		owner = AUS
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			9627 3 
 		}
-		add_core_of = YUG
+		add_core_of = AUS
 		add_core_of = SLV
+		add_claim_by = ILY
 	}
 	provinces={
 		596 665 3631 3654 6650 6672 9596 9627 }

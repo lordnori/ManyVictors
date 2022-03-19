@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = CRI
 		victory_points = {
 			3686 20
 		}
@@ -32,11 +32,14 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = CRI
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-			}
-		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
+		add_core_of = SOV
+		add_core_of = MSK
 	}
 
 	provinces={

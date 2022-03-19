@@ -10,18 +10,20 @@ state={
 		victory_points = {
 			11683 3
 		}
-		owner = SOV
+		owner = UKR
 		buildings = {
 			infrastructure = 3 #was: 5
 			dockyard = 1
 		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		add_core_of = UKR
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-			}
-		}
 	}
 
 	provinces={
