@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = UKR
 		victory_points = {
 			418 10
 		}
@@ -20,13 +20,15 @@ state={
 			arms_factory = 1
 			air_base = 5
 		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		add_core_of = UKR
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-			}
-		}
 	}
 
 	provinces={

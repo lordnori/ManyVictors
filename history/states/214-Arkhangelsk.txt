@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = SOV
+		owner = ARK
 		victory_points = {
 			3338 5 
 		}
@@ -19,12 +19,15 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = ARK
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-			}
-		}
+		add_core_of = MSK
 	}
 
 	provinces={

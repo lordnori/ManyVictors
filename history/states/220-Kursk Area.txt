@@ -6,7 +6,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = OYL
 		victory_points = {
 			3580 5
 		}
@@ -14,7 +14,15 @@ state={
 			infrastructure = 3 #was: 5
 			air_base = 1
 		}
+		add_core_of = OYL
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 	}
 
 	provinces={

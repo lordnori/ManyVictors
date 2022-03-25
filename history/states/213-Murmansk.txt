@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = KLA
 		victory_points = {
 			3134 5 
 		}
@@ -25,7 +25,15 @@ state={
 				coastal_bunker = 1
 			}
 		}
+		add_core_of = KLA
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 	}
 
 	provinces={
