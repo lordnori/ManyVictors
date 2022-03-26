@@ -10,14 +10,22 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = FRK
 		victory_points = {
 			11349 1
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
+		add_core_of = FRK
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 	}
 
 	provinces={
