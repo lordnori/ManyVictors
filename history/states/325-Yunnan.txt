@@ -9,30 +9,14 @@ state={
 		owner = YUN
 		add_core_of = YUN
 		add_core_of = CHI
-		add_core_of = PRC
-		victory_points = {
+		add_core_of = FGT
+		add_core_of = KMT
 			1319 10 
 		}
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 3
-
-		}
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger" 
-					}
-
-				}
-				CHI = {
-					transfer_state = PREV
-
-				}
-
-			}
 
 		}
 
