@@ -135,7 +135,6 @@ ideologies = {
 			send_volunteers_tension = 0.35
 			guarantee_tension = 0.25
 			take_states_cost_factor = 0.35
-			annex_cost_factor = 0.55
 			justify_war_goal_when_in_major_war_time = 0.10
 			civilian_intel_to_others = 20.0
 			army_intel_to_others = 10.0
