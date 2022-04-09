@@ -7,12 +7,20 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SOV
+		owner = BSM
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SOV
+		add_core_of = BSM
 		add_core_of = KAZ
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
+		add_core_of = SOV
+		add_core_of = MSK
 		victory_points = {
 			3618 1
 		}
