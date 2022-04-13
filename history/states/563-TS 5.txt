@@ -10,7 +10,7 @@ state = {
 	}
 
 	history = {
-		owner = SOV
+		owner = BYA
 		victory_points = {
 			4705 1 
 		}
@@ -18,7 +18,15 @@ state = {
 			infrastructure = 2
 			air_base = 2
 		}
+		add_core_of = BYA
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		add_core_of = FER
 	}
 

@@ -7,7 +7,8 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = USA
+		owner = DOA
+		add_core_of = DOA
 		add_core_of = HAW
 		buildings = {
 			infrastructure = 2

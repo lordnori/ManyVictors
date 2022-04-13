@@ -19,6 +19,7 @@ state= {
 		add_core_of = VLG
 		add_core_of = SOV
 		add_core_of = MSK
+		add_claim_by = JAP
 		
 		buildings = {
 			infrastructure = 2

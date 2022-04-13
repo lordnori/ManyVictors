@@ -4,7 +4,7 @@ state = {
 	name = "STATE_637" #Kamchatka
 
 	history = {
-		owner = SOV
+		owner = KAM
 		buildings = {
 			infrastructure = 1
 			12207 = {
@@ -13,8 +13,15 @@ state = {
 			}
 
 		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
-		add_core_of = FER
+		add_core_of = MSK
+		add_core_of = KAM
 	}
 
 	provinces = {

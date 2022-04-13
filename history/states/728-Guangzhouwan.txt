@@ -6,9 +6,11 @@ state={
 	state_category = enclave
 	
 	history={
-		owner = FRA
+		owner = HKG
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = KMT
+		add_core_of = FGT
+		add_core_of = HKG
 		buildings = {
 			infrastructure = 2
 			11981 = {

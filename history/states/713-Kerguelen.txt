@@ -5,7 +5,8 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = FRA
+		owner = KGL 
+		add_core_of = KGL
 		buildings = {
 			infrastructure = 1
 			2165 = {

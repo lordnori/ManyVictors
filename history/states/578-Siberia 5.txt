@@ -7,11 +7,19 @@ state={
 	state_category = rural
 
 	history={
-		owner = SOV
+		owner = FEM
 		buildings = {
 			infrastructure = 2
 		}
+		add_core_of = FEM
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		victory_points = {
 			7789 1
 		}

@@ -10,11 +10,18 @@ state = {
 		victory_points = {
 			1684 1
 		}
-		owner = SOV
+		owner = YAM
 		buildings = {
 			infrastructure = 1
 		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		add_core_of = YAM
 	}
 

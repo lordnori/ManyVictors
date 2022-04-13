@@ -9,7 +9,8 @@ state={
 	history={
 		owner = CHI
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = KMT
+		add_core_of = FGT
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
@@ -31,9 +32,6 @@ state={
 			10076 3
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
 	}
 
 	provinces={
