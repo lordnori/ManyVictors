@@ -8,9 +8,11 @@ state=
 	
 	history=
 	{
-		owner = CHI
+		owner = HKG
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = HKG
+		add_core_of = FGT
+		add_core_of = KMT
 		victory_points = {
 			10000 5 
 		}
@@ -25,9 +27,6 @@ state=
 			}
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
 	}
 	provinces={
 		10000

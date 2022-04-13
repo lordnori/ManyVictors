@@ -8,9 +8,11 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = town
 	history={
-		owner = CHI
+		owner = HNN
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = FGT
+		add_core_of = KMT
+		add_core_of = HNN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -19,16 +21,6 @@ state={
 		}
 		victory_points = {
 			7101 10 
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-				infrastructure = 3 #was: 6
-				air_base = 3
-				arms_factory = 1
-
-			}
-
 		}
 
 	}

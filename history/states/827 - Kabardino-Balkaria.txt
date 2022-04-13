@@ -6,12 +6,20 @@ state = {
 	}
 
 	history = {
-		owner = SOV
+		owner = MTT
 		buildings = {
 			infrastructure = 2
 
 		}
+		add_core_of = MTT
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
+		add_core_of = MSK
 		add_core_of = KBK
 		victory_points = {
 			11614 1

@@ -14,7 +14,7 @@ state = {
 		victory_points = {
 			105 1 
 		}
-		owner = SOV
+		owner = YAM
 		buildings = {
 			infrastructure = 1
 			12530 = {
@@ -22,8 +22,15 @@ state = {
 			}
 
 		}
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
-		add_core_of = NEN
+		add_core_of = MSK
+		add_core_of = YAM
 	}
 
 	provinces = {

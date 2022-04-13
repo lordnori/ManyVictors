@@ -12,7 +12,8 @@ state={
 		owner = SHX
 		add_core_of = SHX
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = FGT
+		add_core_of = KMT
 		
 		buildings = {
 			infrastructure = 1

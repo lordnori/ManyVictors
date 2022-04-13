@@ -11,8 +11,9 @@ state={
 			12857 1
 		}
 
-		owner = SPR
+		owner = SAH
 		add_core_of = MOR
+		add_core_of = SAH
 		buildings = {
 			infrastructure = 1
 			12857 = {

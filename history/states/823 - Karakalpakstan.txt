@@ -9,15 +9,22 @@ state = {
 			1614 1
 		}
 		
-		owner = SOV
+		owner = TRK
 		
 		buildings = {
 			infrastructure = 2
 
 		}
 		
+		add_core_of = MEN 
+		add_core_of = RUS 
+		add_core_of = RST
+		add_core_of = TCS
+		add_core_of = VLD
+		add_core_of = VLG
 		add_core_of = SOV
-		add_core_of = UZB
+		add_core_of = MSK
+		add_core_of = TRK
 		add_core_of = KKP
 		
 	}
