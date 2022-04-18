@@ -268,8 +268,8 @@ SPT = "countries/Sankt Peterburg.txt"
 FTT = "countries/Free Territory.txt"
 KLA = "countries/Kola Bay.txt"
 ARK = "countries/Arkhangelsk.txt"
-STN = "countries/Stalingrad.txt
-MKB - "countries/Moscow.txt"
+STN = "countries/Stalingrad.txt"
+MKB = "countries/Moscow.txt"
 OLY = "countries/ .txt" #Find
 MIK = "countries/Mikhailovich Clique.txt"
 TCS = "countries/ .txt" #False
