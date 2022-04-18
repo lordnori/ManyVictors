@@ -11,6 +11,7 @@ state={
 		add_core_of = CHI
 		add_core_of = FGT
 		add_core_of = KMT
+		victory_points = {
 			1319 10 
 		}
 		buildings = {
