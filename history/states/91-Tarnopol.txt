@@ -6,7 +6,7 @@ state={
 	state_category = city
 	
 	history={
-		owner = UKR
+		owner = GAL
 		victory_points = {
 			11479 3
 		}
@@ -19,14 +19,8 @@ state={
 			air_base = 5
 		}
 		add_core_of = UKR
-		add_core_of = MEN 
-		add_core_of = RUS 
-		add_core_of = RST
-		add_core_of = TCS
-		add_core_of = VLD
-		add_core_of = VLG
-		add_core_of = SOV
-		add_core_of = MSK
+		add_core_of = GAL
+		add_core_of = AUS
 	}
 
 	provinces={
