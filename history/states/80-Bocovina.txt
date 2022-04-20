@@ -18,7 +18,6 @@ state={
 		add_core_of = GAL
 		add_core_of = UKR
 		add_core_of = ROM
-		add_claim_by = HUN
 		add_claim_by = AUS
 	}
 	provinces={
