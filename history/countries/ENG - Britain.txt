@@ -377,7 +377,6 @@ recruit_character = ENG_winston_churchill
 recruit_character = ENG_edward_viii
 recruit_character = ENG_clement_attlee
 recruit_character = ENG_oswald_mosley
-recruit_character = ENG_william_allen
 recruit_character = ENG_archibald_sinclair
 recruit_character = ENG_james_maxton
 
