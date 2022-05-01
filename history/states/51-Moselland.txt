@@ -33,7 +33,7 @@ state={
 		}
 		add_core_of = GER
 
-	
+	}
 
 	provinces={
 		529 587 3444 3512 3547 6469 6570 9482 9522 
