@@ -9,55 +9,44 @@ characters={
 				small="GFX_idea_ENG_winston_churchill"
 			}
 		}
-		advisor={
-			slot = political_advisor
-			idea_token = ENG_winston_churchill
-			available  = {
-				has_government  = neutrality 
-				has_completed_focus  = ENG_the_kings_party 
-				if  = {
-					limit  = {
-						has_dlc = "Man the Guns"
-					}
-					NOT = {
-						has_autonomy_state  = autonomy_supervised_state
-					}
-				}
-			}
-			allowed  = {
-				original_tag  = ENG
-				has_dlc = "Man the Guns"
-			}
-			traits  = {
-				royalist_bulldog 
-			}
-			ai_will_do  = {
-				factor  = 1.000
-			}
-		}
-
 		country_leader={
-			ideology=conservatism
+			ideology=paternalistic_conservatism
 			traits = {
 				british_bulldog
 			}
-			expire="1965.1.1.1"
-			id=-1
+			expire="1965.1.24"
+			desc="Sir Winston Leonard Spencer Churchill was elected to the position of Prime Minister of the United Kingdom of Great Britain and Northern Ireland in the 1933 General Election after assuming leadership of the Conservative Party in 1931. He was born in Oxfordshire on the 30th November 1874, his father of a wealthy British aristocratic family and his mother an American socialite. He attended the prestigious Harrow School then the Royal Military Academy, Sandhurst. He enlisted in the army in 1895, seeing conflict in India, South Africa and the Sudan. He was elected as a Conservative Party MP in 1900 and held the position of President of the Board of Trade. Churchill was a firm supporter of collaboration with the Germans in his role as First Lord of the Admiralty at the beginning of the Great War. As the war came to a close he also acqquired positions of Secretary of State for War, Secretary of State for Air and Secretary of State for the Colonies. This made him a notable powerbroker specifically regarding the Peace Conference and Leopoldville Compromise. During the interwar years he served as Chancellor of the Exchequer before replacing Stanley Baldwin as Conservative Leader. Churchill is a firm one-nation tory and imperialist, while conforming to some liberal economic views."
 		}
 	}
 
-	ENG_stanley_baldwin={
-		name=ENG_stanley_baldwin
+	ENG_edward_viii={
+		name=ENG_edward_viii
 		portraits={
 			civilian={
-				large=GFX_portrait_ENG_stanley_baldwin
+				large=GFX_portrait_ENG_edward_viii
 			}
 		}
 		country_leader={
-			ideology=liberalism
-			traits={ conservative_grandee }
-			expire="1938.1.1.1"
-			id=-1
+			ideology=absolute_monarchy
+			traits={ }
+			expire="1972.6.5"
+			desc=" "
+		}
+	}
+
+	ENG_clement_attlee={
+		name=ENG_clement_attlee
+		portraits={
+			civilian={
+				large=GFX_portrait_ENG_clement_attlee
+			}
+		}
+		
+		country_leader={
+			ideology=welfare_state_socialism
+			traits={ }
+			expire="1967.10.8"
+			desc=" "
 		}
 	}
 
@@ -68,118 +57,32 @@ characters={
 				large=GFX_portrait_ENG_oswald_mosley
 			}
 			army={
-				small="GFX_idea_ENG_oswald_mosley"
-			}
-		}
-		advisor={
-			slot = political_advisor
-			idea_token = ENG_oswald_mosley
-			available  = {
-				has_government  = neutrality 
-				has_completed_focus  = ENG_the_kings_party 
-			}
-			allowed  = {
-				original_tag  = ENG
-				has_dlc = "Man the Guns"
-			}
-			traits  = {
-				economic_organizer 
-			}
-			ai_will_do  = {
-				factor  = 1.000
-			}
-		}
-		
-		country_leader={
-			ideology=fascism_ideology
-			traits={ champion_of_peace_1 economic_reformer }
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-
-	ENG_harry_pollitt={
-		name=ENG_harry_pollitt
-		portraits={
-			civilian={
-				large=GFX_portrait_ENG_harry_pollitt
-			}
-			army={
-				small="GFX_idea_harry_pollitt"
-			}
-		}
-		advisor={
-			slot = political_advisor
-			idea_token = harry_pollitt
-			allowed  = {
-				original_tag  = ENG
-			}
-			available  = {
-				if  = {
-					limit  = {
-						has_dlc = "Man the Guns"
-					}
-					has_government  = communism 
-				}
-				if  = {
-					limit  = {
-						has_dlc = "Man the Guns"
-					}
-					NOT = {
-						has_autonomy_state  = autonomy_supervised_state
-					}
-				}
-			}
-			traits  = {
-				communist_revolutionary 
-			}
-			do_effect  = {
-				NOT = {
-					has_government  = communism 
-				}
-			}
-			ai_will_do  = {
-				factor  = 0.000
+				small="GFX_idea_oswald_mosley"
 			}
 		}
 		
 		country_leader={
 			ideology=leninism
-			traits={ staunch_stalinist }
-			expire="1965.1.1.1"
-			id=-1
+			traits={ }
+			expire="1980.12.3"
+			desc=" "
 		}
 	}
 
 	ENG_neville_chamberlain={
-		name=ENG_neville_chamberlain
+		name=ENG_archibald_sinclair
 		portraits={
 			civilian={
-				large=GFX_portrait_ENG_neville_chamberlain
+				large=GFX_portrait_ENG_archibald_sinclair
 			}
 		}
 		country_leader={
-			ideology=liberalism
-			traits = { chamberlain_appeaser rearmer }
-			expire="1965.1.1.1"
-			id=-1
+			ideology=economic_liberalism
+			traits = { }
+			expire="1970.6.15"
+			desc=" "
 		}
 		
-	}
-
-	ENG_horatio_dundas={
-		name=ENG_horatio_dundas
-		portraits={
-			civilian={
-				large=GFX_portrait_ENG_horatio_dundas
-			}
-		}
-		country_leader={
-			ideology=centrism
-			traits={ quartermaster_general compassionate_gentleman }
-			expire="1945.1.1.12"
-			id=-1
-		}
 	}
 
 	ENG_alan_brooke={
@@ -198,11 +101,7 @@ characters={
 			allowed = {
 				original_tag = ENG
 			}
-			available = {
-				NOT = {
-					has_completed_focus = ENG_eliminate_the_upper_class
-				}
-			}
+	
 			traits = {
 				army_chief_maneuver_3
 			}
