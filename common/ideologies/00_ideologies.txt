@@ -420,84 +420,27 @@ ideologies = {
 		}
 		ai_monarchist = yes
 	}
-	
-	volkism = {
-	
-		types = {
-			
-			national_volkism = {
-			}
-		
-			endecja = {
-			}
-		
-			alfred_rosenberg_thought = {
-			}
-			
-			tautinis_atgimimas = {
-			}
-			
-			bareyka = {
-			}
-			
-		}
-		
-		dynamic_faction_names = {
-			"FACTION_NAME_VOLKIST_1"
-			"FACTION_NAME_VOLKIST_2"
-			"FACTION_NAME_VOLKIST_3"
-			"FACTION_NAME_VOLKIST_4"
-			"FACTION_NAME_VOLKIST_5"
-			"FACTION_NAME_VOLKIST_6"
-		}
-		
-		color = { 129 133 117 }
-		
-		rules = {
-			can_create_collaboration_government = yes
-			can_declare_war_on_same_ideology = no
-			can_force_government = yes
-			can_send_volunteers = yes
-			can_puppet = yes
-			can_lower_tension = no
-			can_only_justify_war_on_threat_country = no
-			can_guarantee_other_ideologies = yes
-		}
-		
-		can_host_government_in_exile = yes
-		
-		war_impact_on_world_tension = 0.5
-		faction_impact_on_world_tension = 0.3
-		
-		modifiers = {
-			guarantee_tension = 0.40
-			justify_war_goal_when_in_major_war_time = 0.40
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 15.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
-		}
-		
-		faction_modifiers = {
-			faction_trade_opinion_factor = 0.30
-		}
-		ai_volkist = yes
-	}
 
 	palingenicism = {
 	
 		types = {
 			
-			national_bolshevism = {
+			internationalism = {
 			}
 		
-			strasserism = {
+			proletarianism = {
 			}
 		
-			french_communism = {
+			laissez-faire_socialism = {
 			}
 
-			menshevik_palingenicism = {
+			etatism = {
+			}
+			
+			rigidism = {
+			}
+			
+			solidarism = {
 			}
 			
 		}
@@ -570,6 +513,9 @@ ideologies = {
 			}
 			
 			illiberal_populism = {
+			}
+			
+			national_volkism = {
 			}
 			
 		}
