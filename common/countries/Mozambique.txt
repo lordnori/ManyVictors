@@ -1,6 +1,7 @@
 
 
 graphical_culture = african_gfx
-graphical_culture_2d = african_2d
+graphical_culture_2d = south_american_2d
 
 color = { 39  116  70 }
+
