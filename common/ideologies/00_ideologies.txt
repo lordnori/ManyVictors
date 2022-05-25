@@ -518,6 +518,9 @@ ideologies = {
 			national_volkism = {
 			}
 			
+			cossack_populism = {
+			}
+			
 		}
 		
 		dynamic_faction_names = {
