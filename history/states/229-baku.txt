@@ -1,41 +1,27 @@
 state={
 	id=229
 	name="STATE_229"
-	resources={
-		oil=70 # was: 126.000
-	}
 
 	history={
-		owner = TCS
+		owner = AZR
 		victory_points = {
-			7661 10 
+			7661 15 
 		}
 		victory_points = {
-			11674 1 
+			7495 3
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			fuel_silo = 1
 			air_base = 1
 		}
 		add_core_of = AZR
-		add_core_of = MEN 
-		add_core_of = RUS 
-		add_core_of = RST
-		add_core_of = TCS
-		add_core_of = VLD
-		add_core_of = VLG
-		add_core_of = SOV
-		add_core_of = MSK
-		add_core_of = TCS
-
 	}
 
 	provinces={
-		1467 1536 1539 1610 4458 4477 4545 4614 6763 7495 7661 9715 11645 11674 11704 
+		7661 7495 4614 1536
 	}
-	manpower=2881049
+	manpower=500000
 	buildings_max_level_factor=1.000
 	state_category=large_town
 
