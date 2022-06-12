@@ -1,0 +1,29 @@
+state = {
+	id = 846
+	name = "STATE_846"
+
+	history = {
+		owner = TUR
+		victory_points = {
+			3653 3
+		}
+		buildings = {
+			naval_base = 2
+      coastal_fort = 1
+      air_base = 1
+			}
+
+		}
+		add_core_of = GEO 
+    add_core_of = TUR
+	}
+
+	provinces = {
+		3653 7454
+	}
+	manpower = 400000
+	buildings_max_level_factor = 1.000
+	state_category = town
+
+	local_supplies = 0.0 
+}
