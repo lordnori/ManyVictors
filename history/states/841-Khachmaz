@@ -1,0 +1,27 @@
+state={
+	id=841
+	name="STATE_841"
+	resources={
+		oil=54 # was: 126.000
+	}
+
+	history={
+		owner = AZR
+		victory_points = {
+			4458 3
+		}
+		buildings = {
+			fuel_silo = 1
+		}
+		add_core_of = AZR
+	}
+
+	provinces={
+	4458 4545 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=3.0
+}
