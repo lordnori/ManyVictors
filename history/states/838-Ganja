@@ -1,0 +1,25 @@
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = AZR
+		victory_points = {
+			11674 10 
+      1610 3
+		}
+		buildings = {
+			industrial_complex = 1
+		}
+		add_core_of = AZR
+	}
+
+	provinces={
+	11674 1539 1467 1610 9715
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=4.0
+}
