@@ -1,0 +1,21 @@
+state={
+	id=840
+	name="STATE_840"
+
+	history={
+		owner = AZR
+		victory_points = {
+			6763 1 
+		}
+		add_core_of = AZR
+	}
+
+	provinces={
+	6763
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=2.0
+}

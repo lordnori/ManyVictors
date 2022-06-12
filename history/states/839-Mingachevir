@@ -1,26 +1,19 @@
 state={
-	id=836
-	name="STATE_836"
-        resources={
-		steel=20
-	}
+	id=839
+	name="STATE_839"
 
 	history={
 		owner = AZR
 		victory_points = {
-			6997 3
-		}
-    buildings = {
-			industrial_complex = 1
+			11645 3 
 		}
 		add_core_of = AZR
-    add_core_of = ARM
 	}
 
 	provinces={
-	6997 6642 4660
+	11645 4477 11704
 	}
-	manpower=350000
+	manpower=300000
 	buildings_max_level_factor=1.000
 	state_category=town
 
