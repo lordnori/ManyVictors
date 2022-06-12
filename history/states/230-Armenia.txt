@@ -3,7 +3,7 @@ state={
 	name="STATE_230"
 
 	history={
-		owner = SOV
+		owner = TUR
 		victory_points = {
 			12320 3
 		}
@@ -16,20 +16,13 @@ state={
 			air_base = 2
 
 		}
-		add_core_of = MEN 
-		add_core_of = RUS 
-		add_core_of = RST
-		add_core_of = TCS
-		add_core_of = VLD
-		add_core_of = VLG
-		add_core_of = SOV
-		add_core_of = MSK
 		add_core_of = ARM
+		add_claim_by = TUR
 
 	}
 
 	provinces={
-		3564 4660 6642 6997 11708 12320 12380 12441 12450 13123 
+		3564 12320 12380 12441 13123 
 	}
 	manpower=1250082
 	buildings_max_level_factor=1.000
