@@ -5,7 +5,7 @@ state={
 	history={
 		owner = AZR
 		victory_points = {
-			9667 3
+			6997 3
 		}
     buildings = {
 			industrial_complex = 1
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-	9667 6642 4660
+	6997 6642 4660
 	}
 	manpower=350000
 	buildings_max_level_factor=1.000
