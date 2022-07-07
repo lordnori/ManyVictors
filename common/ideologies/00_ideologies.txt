@@ -421,18 +421,9 @@ ideologies = {
 		ai_monarchist = yes
 	}
 
-	palingenicism = {
+	right_palingenicism = {
 	
 		types = {
-			
-			internationalism = {
-			}
-		
-			proletarianism = {
-			}
-		
-			laissez-faire_socialism = {
-			}
 
 			etatism = {
 			}
@@ -712,7 +703,7 @@ ideologies = {
 		ai_theocratic = yes
 	}
 
-	radical_socialism = {
+	left_palingenicism = {
 	
 		types = {
 			
@@ -750,6 +741,15 @@ ideologies = {
 			}
 
 			irish_republican_socialism = {
+			}
+			
+			internationalism = {
+			}
+		
+			proletarianism = {
+			}
+		
+			laissez-faire_socialism = {
 			}
 			
 		}
