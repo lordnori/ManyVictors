@@ -187,7 +187,12 @@
  MLD_UK_protectorate:0 "Sultanate of the Maldives"
  BUK_monarchy:0 "Emirate of Bukhara"
  ALT_authoritarian:0 "Second Confederated Altai Republic"
- 
-
- 
- 
+ BEL_anarchist:0 "Libertarian Republic of Belgium"
+ BEL_centrist:0 "Kingdom of Belgium"
+ BEL_authoritarian:0 "Militärstaat Belgien"
+ BEL_conservative:0 "Kingdom of Belgian Flanders"
+ BEL_liberal:0 "Kingdom of Belgian Flanders"
+ BEL_right_palingenicism:0 "Rexist State"
+ BEL_populism:0 "Kingdom of Flanders"
+ BEL_social_democracy:0 "Belgian Republic"
+ BEL_left_palingenicism:0 "Belgian Independent Republic"
