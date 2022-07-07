@@ -4,7 +4,7 @@ oob = "BEL_1936"
 
 set_research_slots = 3
 set_stability = 0.8
-set_war_support = 0.3 #we see what you are doing there Adolf
+set_war_support = 0.3
 
 set_technology = {
 	infantry_weapons = 1
@@ -103,31 +103,23 @@ recruit_character = BEL_paul_van_zeeland
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = conservative
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 83
-	fascism = 11
-	communism = 6
+	anarchist = 7
+	centrist = 11
+	authoritarian =
+	conservative = 12
+	liberal = 8
+	monarchy = 0
+	right_palingenicism = 16
+	populism = 17
+	social_democracy = 9
+	theocracy = 0
+	left_palengicism = 20
+	
 }
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1939.4.2"
-		election_frequency = 48
-		elections_allowed = yes
-	}
-	set_popularities = {
-		democratic = 87
-		fascism = 8
-		communism = 5
-	}
-}
-
-set_convoys = 80
-set_stability = 0.75
