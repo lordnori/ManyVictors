@@ -61,6 +61,6 @@ set_popularities = {
 	populism = 16
 	social_democracy = 9
 	theocracy = 0
-	left_palengicism = 20
+	left_palingenicism = 20
 	
 }
